@@ -1,5 +1,5 @@
-Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
-Director of Data Science,$87K-$173K (Glassdoor est.),"The Role:
+Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,hourly,employer_Provided,min_salary,max_salary,avg_salary,company_txt,job_state,some_state,age,python_yn,R_yn,Spark
+$87K-$173K (Glassdoor est.),"The Role:
 
 The Director of Data Science is responsible for managing our team of data scientists and analysts. In this role, you will be a true partner to our Go-To-Market leadership team. You will provide data science expertise to projects and drive delivery of solutions. This team uses data-driven methods to power decisions, inform strategy, build robust data models, and identify opportunities to uncover insights about our customers. Your team will stay on top of challenges occurring in the business and will be able to anticipate the future data needs of the business. Reporting directly to the Chief Financial Officer, you'll lead your team to drive value by delivering insightful, intuitive data products.
 
@@ -14,31 +14,9 @@ Your 7+ years of data science experience has given you a strong understanding of
 About Newsela:
 
 Newsela is an Instructional Content Platform that combines engaging, leveled content with integrated formative assessments and insights to supercharge engagement and learning in every subject. Students and teachers use Newsela to find digital content from 100+ of the best sources—from National Geographic to NASA, Biography.com to Encyclopedia Britannica, the Washington Post to the Wichita Eagle. Content is instructionalized to meet students where they are, with interactive tools and analytics to take them where they want to go. Newsela has become an essential solution for schools and districts, with a presence in over 90% of U.S. K-12 schools. Newsela is the content platform for the connected",4.2,"Newsela
-4.2","New York, NY","New York, NY",201 to 500 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Achieve3000, Schoology, Clever"
-Data Science Intern,-1,"Fullpower® designs, develops and operates a complete platform for hybrid Edge/Cloud AI, algorithms, big data, predictive analytics, together with end-to-end engineering services. The Company’s platform is backed by a patent portfolio of 125+ patents. The Company’s key areas of expertise are biomedical, non-invasive PSG-level sleep technology. The Company’s markets are in Medical Solutions, Clinical Trials, SmartHome and Wearable. Fast growing with endless opportunities, come join the Fullpower world-class team.
-
-Fullpower Technologies is seeking passionate, team-oriented, and self-motivated data science interns to join our team.
-
-Overview:
-
-Work to connect biomedical data with medical, health, and fitness outcomes
-Collaborate closely with an interdisciplinary team of scientists, engineers, mathematicians
-Responsibilities may include:
-Develop machine learning and statistical models
-Perform analytics across large databases of sleep, activity, and health data
-Develop visualizations and tools for understanding and annotating data
-Design and run experiments
-Preferred Qualifications:
-Experience in Python and data-science-related packages such as pandas and scikit-learn
-Experience working with databases including familiarity with SQL
-Experience with deep learning frameworks such as TensorFlow, PyTorch, or equivalent
-Requirements:
-Pursuing or recent BS or higher degree in Mathematics, Physics, Computer Science, Engineering, or a related discipline
-Experience with and enthusiasm for machine learning, data analytics, visualization, and/or statistics
-High self motivation and positive attitude
-Fullpower does not sponsor work visas — must already be authorized to work in the United States",4.5,"Fullpower Technologies, Inc.
-4.5","Santa Cruz, CA","Santa Cruz, CA",51 to 200 employees,2003,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),-1
-"Staff Data Scientist, Ads",$133K-$216K (Glassdoor est.),"""The front page of the internet,"" Reddit brings over 430 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities.
+4.2","New York, NY","New York, NY",201 to 500 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Achieve3000, Schoology, Clever",0,0,87,173,130.0,"Newsela
+", NY,1,8,1,0,0
+$133K-$216K (Glassdoor est.),"""The front page of the internet,"" Reddit brings over 430 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities.
 
 We are looking for a Staff Data Scientist to work with our Ads team. You will work closely with engineers and product owners from our Ads team to understand how our data can be used to tell a compelling story to brands. In addition to strong analytical skills, this person has a solid business acumen and understanding of what is important to advertisers.
 
@@ -55,8 +33,9 @@ Masters degree or above in a quantitative major (e.g., mathematics, statistics, 
 2+ years of experience in online advertising
 Proficiency with statistical analysis and programming languages (e.g., R / Python)
 #LI-SAP1",3.8,"Reddit
-3.8","New York, NY",-1,-1,-1,-1,-1,-1,-1,-1
-Data Scientist - Risk,$76K-$109K (Glassdoor est.),"Job Title: Data Scientist (Risk)
+3.8","New York, NY",-1,-1,-1,-1,-1,-1,-1,-1,0,0,133,216,174.5,"Reddit
+", NY,0,-1,1,0,0
+$76K-$109K (Glassdoor est.),"Job Title: Data Scientist (Risk)
 
 Location: Orlando, Florida
 
@@ -99,8 +78,9 @@ Travel:
 There will be minimal travel required for this position.
 
 LSQ is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived, race, religion, color, sex (including pregnancy and gender identity), sexual orientation, parental status, national origin, age, disability, family medical history or genetic information, political affiliation, military service, any other non-merit based factor or any other characteristic protected by applicable federal, state or local laws. Our leadership team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment. If youd like more information about your EEO rights as an applicant under the law, please click here http://www1.eeoc.gov/employers/poster.cfm",4.2,"LSQ
-4.2","Orlando, FL","Orlando, FL",51 to 200 employees,1996,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),-1
-Sr. HR Data Analyst - Talent Acquisition,$34K-$50K (Glassdoor est.),"We Are Hiring
+4.2","Orlando, FL","Orlando, FL",51 to 200 employees,1996,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),-1,0,0,76,109,92.5,"LSQ
+", FL,1,24,1,0,1
+$34K-$50K (Glassdoor est.),"We Are Hiring
 
 Sr. HR Data Analyst - Talent Acquisition
 
@@ -150,8 +130,9 @@ Ascension participates in the Electronic Employment Verification Program. Please
 E-Verify (link to E-verify site)
 
 ]]>",3.2,"Ascension
-3.2","Saint Louis, MO","Saint Louis, MO",10000+ employees,1999,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1
-"machine learning engineer, Principal, Starbucks Technology",$105K-$173K (Glassdoor est.),"Job Summary and Mission
+3.2","Saint Louis, MO","Saint Louis, MO",10000+ employees,1999,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,0,0,34,50,42.0,"Ascension
+", MO,1,21,1,0,0
+$105K-$173K (Glassdoor est.),"Job Summary and Mission
 This position contributes to Starbucks success by driving advancements to Enterprise Data & Analytics Platform and will support the definition, build out, evangelism and deployment of foundational AI capabilities that are critical to democratizing Machine Learning and AI driven applications across the organization.
 Models and acts in accordance with Starbucks guiding principles.
 
@@ -205,8 +186,9 @@ Starbucks and its brands are an equal opportunity employer of all qualified indi
 We are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences. We believe that enables us to better meet our mission and values while serving customers throughout our global communities. People of color, women, LGBTQIA , veterans and persons with disabilities are encouraged to apply.
 
 Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances. Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at 206-318-0660 or via email at applicantaccommodation@starbucks.com",3.8,"Starbucks
-3.8","Seattle, WA","Seattle, WA",10000+ employees,1971,Company - Public,Fast-Food & Quick-Service Restaurants,"Restaurants, Bars & Food Services",$10+ billion (USD),"Dunkin' Brands, McDonald's"
-Data Scientist,$99K-$136K (Glassdoor est.),"The Opportunity
+3.8","Seattle, WA","Seattle, WA",10000+ employees,1971,Company - Public,Fast-Food & Quick-Service Restaurants,"Restaurants, Bars & Food Services",$10+ billion (USD),"Dunkin' Brands, McDonald's",0,0,105,173,139.0,"Starbucks
+", WA,1,49,1,0,1
+$99K-$136K (Glassdoor est.),"The Opportunity
 
 Eversight is the recognized leader in AI-powered price and promotions. Eversight's proprietary cloud-based SaaS solution brings AI and continuous experimentation to consumer brands and retailers. Our software acts as a coach, enabling market leaders to transform pricing and promotion strategy for the $3.4 trillion spent in consumer goods retail using intelligent, real-time data and insights.
 
@@ -246,8 +228,9 @@ Palo Alto, CA
 About the Company
 
 Eversight is the recognized leader in AI-powered pricing and promotions. Global brands and retailers rely on the Eversight platform to optimize pricing in response to market conditions and to deliver higher ROI on promotional spend. Eversight's Pricing Suite and Offer Innovation Suite solutions are driving strong margin and sales volume improvements for leading companies such as Coca-Cola, Frito-Lay, and Raley's. Founded in 2013, Eversight is headquartered in Palo Alto, California, with offices in Chicago and New York.",4.2,"Eversight
-4.2","Palo Alto, CA","Palo Alto, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),-1
-Data Engineer,$80K-$150K (Glassdoor est.),"Company Description
+4.2","Palo Alto, CA","Palo Alto, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),-1,0,0,99,136,117.5,"Eversight
+", CA,1,7,1,0,0
+$80K-$150K (Glassdoor est.),"Company Description
 Sagence is a management advisory firm dedicated to helping our clients optimize the value of their data assets. From thinking to doing, Sagence works with leading institutions in the acquisition, evaluation, development and management of their critical data assets and in the application of analytics to discover new insights, shorten time-to-value, and drive competitive advantage.
 **All candidates must be currently authorized to work in the US on a full-time basis. Sagence does not provide sponsorship for work visas upon hire or once on board.**
 Job Overview
@@ -281,8 +264,9 @@ Willingness to travel up to 80% of the week (M-Th)
 Chicago or New York area candidates preferred, but will consider candidates in other parts of U.S.
 Our Culture
 Passionate, diverse, creative, genuine, flexible, hands-on…these are just a few of the words that describe our culture. Our Partners are deeply involved in the client work on a daily basis. We have a high-energy workplace with a focus on producing high-quality, impactful results. We are committed to equality of opportunity, fairness, work and lifestyle balance, and mutual respect. We promote an entrepreneurial spirit by encouraging individual initiative and foster a collaborative culture and work environment which includes open communication and on-going learning. We build teamwork through small, dedicated teams who continuously teach each other and learn from one another. We strongly believe these characteristics enable our employees to develop to their fullest potential. To learn more, please visit us at www.sagenceconsulting.com",4.5,"Sagence
-4.5","Chicago, IL","Chicago, IL",1 to 50 employees,2009,Company - Private,Consulting,Business Services,$10 to $25 million (USD),"Clarity Insights, WCI Consulting, PwC"
-Data Scientist,$216K-$234K (Glassdoor est.),"Secure our Nation, Ignite your Future
+4.5","Chicago, IL","Chicago, IL",1 to 50 employees,2009,Company - Private,Consulting,Business Services,$10 to $25 million (USD),"Clarity Insights, WCI Consulting, PwC",0,0,80,150,115.0,"Sagence
+", IL,1,11,0,0,0
+$216K-$234K (Glassdoor est.),"Secure our Nation, Ignite your Future
 
 Summary
 
@@ -315,8 +299,9 @@ ManTech International Corporation, as well as its subsidiaries proactively fulfi
 If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
 
 If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.",4.0,"ManTech
-4.0","Chantilly, VA","Herndon, VA",5001 to 10000 employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),-1
-Data Analyst,$35K-$64K (Glassdoor est.),"TheData Analyst will work as part of Acquisitions team under the direction of the Data Architect and Manager of the Acquisitions and Conversions team. The position relies on good judgment, experience, and guidance to perform analytical and technical functions to analyze and interpret data in support of acquisitions and large-scale system conversions. The role requires a broad degree of knowledge and problem solving skills.
+4.0","Chantilly, VA","Herndon, VA",5001 to 10000 employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),-1,0,0,216,234,225.0,"ManTech
+", VA,0,52,0,0,0
+$35K-$64K (Glassdoor est.),"TheData Analyst will work as part of Acquisitions team under the direction of the Data Architect and Manager of the Acquisitions and Conversions team. The position relies on good judgment, experience, and guidance to perform analytical and technical functions to analyze and interpret data in support of acquisitions and large-scale system conversions. The role requires a broad degree of knowledge and problem solving skills.
 
 The position will provide support to the Acquisitions and Conversion teams by analyzing and interpreting the data from acquired systems and internal systems. The candidate will serve as a data developer resource, should have knowledge of data analysis tools, data profiling techniques and computer systems technology. This position will work closely with the Data Architect to develop technical requirements and comprehensive solutions to extract data from multiple source systems or models, transform data according to Business Rules and Master Data Management, work with the Acquisitions team to assure attributes are properly governed and also loaded into operational and presentation models.
 
@@ -353,8 +338,9 @@ Familiarity with and ability to document the use cases, business purposes and qu
 Familiar with reporting technology and methods of reporting different types of data
 Understanding of data quality concepts, best practices and tools
 Communication skills to help communicate complex data and concepts to business analysts and team members",3.4,"Protective Life
-3.4","Birmingham, AL","Birmingham, AL",1001 to 5000 employees,1907,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),"Prudential, Brighthouse Financial, Lincoln"
-Healthcare Data Analyst,$56K-$75K (Glassdoor est.),"Xtend Healthcare, established in 2009, is seeking professionals to fulfill a specific need at one of our key clients of EY (Ernst & Young) within its Indianapolis healthcare advisory practice. These full-time positions offer a competitive salary and an attractive benefits package. The positions are long-term with no scheduled end date. Many current Xtend Healthcare employees have been contracted in similar roles at EY for multiple years -- some well over a decade.
+3.4","Birmingham, AL","Birmingham, AL",1001 to 5000 employees,1907,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),"Prudential, Brighthouse Financial, Lincoln",0,0,35,64,49.5,"Protective Life
+", AL,1,113,0,0,0
+$56K-$75K (Glassdoor est.),"Xtend Healthcare, established in 2009, is seeking professionals to fulfill a specific need at one of our key clients of EY (Ernst & Young) within its Indianapolis healthcare advisory practice. These full-time positions offer a competitive salary and an attractive benefits package. The positions are long-term with no scheduled end date. Many current Xtend Healthcare employees have been contracted in similar roles at EY for multiple years -- some well over a decade.
 
 EY is a globally recognized professional services firm and its Indianapolis healthcare advisory practice serves a variety of healthcare clients nationally. EY is looking to expand its existing team of Xtend Healthcare data analysts. Xtend Healthcare employees who act in these contracted roles have data analytics, informatics or business backgrounds. Some individuals do occasionally travel for work, but travel is not required by all. Candidates are expected to work daily in EY's downtown Indianapolis, Indiana office location.
 
@@ -394,8 +380,9 @@ All offers of employment are contingent on standard background checks. Navient a
 EOE Race/Ethnicity/Sex/Disability/Protected Vet/Sexual Orientation/Gender Identity. Navient Corporation and its subsidiaries are not sponsored by or agencies of the United States of America.
 
 Navient is a drug free workplace.",3.4,"Navient
-3.4","Indianapolis, IN","Wilmington, DE",5001 to 10000 employees,2014,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),-1
-Data Engineer,$101K-$177K (Glassdoor est.),"On April 1, 2020, Rubicon Project and Telaria, Inc. merged to create one company. The combined company will rebrand as one in the coming months. In the interim, each company will operate under its existing brand name. The ticker symbol for the combined public entity will remain NYSE: RUBI.
+3.4","Indianapolis, IN","Wilmington, DE",5001 to 10000 employees,2014,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),-1,0,0,56,75,65.5,"Navient
+", IN,0,6,0,0,0
+$101K-$177K (Glassdoor est.),"On April 1, 2020, Rubicon Project and Telaria, Inc. merged to create one company. The combined company will rebrand as one in the coming months. In the interim, each company will operate under its existing brand name. The ticker symbol for the combined public entity will remain NYSE: RUBI.
 
 We are looking for Data Engineers to help us build tools, enhance our platform, and leverage our vast amounts of advertising data to make informed decisions around business optimizations and efficiencies. We're close to the customers and have the reward of seeing our work being used immediately. We take pride in the reliability and scalability of our platform, as well as our pace of implementation. We are a small and efficient team building out a solution in a new space with lots of green field ahead of it.
 
@@ -426,214 +413,9 @@ Perks and Benefits:
 At Telaria we place an emphasis and importance on ensuring our total rewards are competitive, aligned with industry and to help you create a productive work/life balance. Benefits are highly subsidized and include medical, company paid dental, vision, employer contributed Health Savings Account, 401k matching, corporate gym discounts, pre-tax health and commuter savings, life insurance, 5 and 10-year Sabbatical programs, Discretionary Time Off (a.k.a. open vacation policy!), Paid Parental Leave, an Employee Referral Program, Employee Stock Purchase Plan (ESPP), and much more! All this is within a collaborative work environment you can personalize and topped with engaging programs like Micro-Mentorship, and Team Sports.
 
 Telaria values diversity and is proud to be an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",4.4,"Telaria
-4.4","Mountain View, CA","New York, NY",51 to 200 employees,2017,Company - Public,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"SpotX, FreeWheel, TubeMogul"
-Data Engineer,-1,"Since 2001, Hygiena has been on a mission to be the global leader in rapid industrial diagnostic testing. Our world-class team of innovators, leaders, creators and problems solvers has helped Hygiena become the breakaway leader in the markets we serve. In our growing global business, there is always opportunity for talented and passionate individuals to grow with Hygiena.
-
-We are currently recruiting for a Data Engineer to join our team!
-
-In this role you will primarily design, implement, and manage an analytical data infrastructure and work closely with other engineers and scientists to create robust and scalable solutions to flow data from various source systems into the data warehouse and end-user facing applications.
-
-Responsibilities:
-•Maintain algorithms and build data pipelines including support for new instrument hardware and software.
-•Test algorithms for ELT annotated and non-annotated reference data.
-•Benchmark algorithm performances and researches and implements new technologies and/or practices to provide efficient process improvements.
-•Design data schema and operate internal data warehouse.
-•Work directly with other engineers and data scientists to flow data from various source systems into the data warehouse.
-•Monitor and troubleshoot operational or data issues in data pipelines for BAX and Ensure Touch Product lines.
-
-Qualifications:
-•Bachelor’s Degree in Computer Science, Engineering, Statistics or related field required.
-•Experience with Statistical modeling, Machine Learning, Data Science or Data Engineering.
-•4 or more years in Business Intelligence or Business Analytics.
-•Experience with scripting languages such as;
-oMATLAB
-oPython
-•Experience with C++/C# and Windows dll packaging.
-•Experience with writing SQL queries and ETL.
-•Experience working on a SCRUM/Kanban team in a CI/CD environment and ETL Skills
-•Experience with columnar databases and familiarity with statistical modeling and machine learning techniques.
-
-Skills:
-•Excellent verbal and written communication.
-•Excellent analytical and quantitative skills.
-•Ability to handle high call volume.
-•Excellent attendance and punctuality.
-•Must be able to use discretion and independent judgement.
-•Must be able to work in a team environment.
-•Must be able to pay close attention to details.
-•Must be able to adapt and flex to a changing environment.
-
-Working Conditions:
-•Is required to work normal office hours, Monday through Friday in the Camarillo, CA headquarters.
-•May occasionally work evenings and/or weekends.
-•May occasionally be required to travel.
-
-Why you’ll want to join our team.
-Teamwork as a core value.
-At Hygiena, our emphasis on teamwork and cross-functional communication enables us to build stronger bonds within our business.
-
-Be a part of something big.
-Hygiena plays a critical role in helping to prevent global health crisis such as foodborne illness, healthcare-associated infections, and other outbreaks.
-
-Giving back to our communities.
-Hygiena believes in giving back by supporting local organizations committed to improving the lives of children and youth in our communities.
-
-Apply Now",4.0,"Hygiena
-4.0","Camarillo, CA","Camarillo, CA",201 to 500 employees,-1,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),"Ecolab, Eurofin Private Investment Office"
-Data Analyst,-1,"Company Description
-
-Founded in Silicon Valley, scaling in Gainesville, FL.
-
-We are a profitable, bootstrapped tech startup offering competitive salary + equity packages to top candidates. Our office is in the Innovation Hub in Downtown Gainesville. Our first cofounders met as early hires at the successful fintech startup, Square.
-
-Bridgerock Data is a Data Science first technology company focused on direct to consumer brands (DTC). This ecommerce market is growing fast. Few people know that at $61bn per year, the ecommerce platform, Shopify, sells more online than Walmart, and may soon pass the entire chain.
-
-Shopify, and its competitors, enable creative retail startups to flourish. The most successful of these all hit a major growth painpoint: Brands must advertise to grow, but marketers fear wasting money on ads.
-
-Bridgerock uses Data Science to show which ads are wasting money. We are not an AdTech agency. We audit the AdTech agencies. We solve important, practical, challenging problems. We focus on accuracy. Cutting low impact marketing spend is a big advantage to our clients.
-
-We are taking applications for several technical positions. If you are interested in what we do, or know our stack, please apply online or submit your resume and cover letter to people@bridgerockdata.com.
-
-Technologies we use
-Javascript, HTML, CSS, Jinja
-Postgres, Redshift
-Python, Django
-Roles Considered
-Engineering Lead
-Software Engineer
-Software Engineering Intern
-Full, Front, Back End Developer
-Data Analyst
-Data Scientist
-Job Description/Requirements
-
-Data Analyst or Data Scientist
-
-Write data routines primarily in SQL (Postgres and Redshift), sometimes in Python.
-
-Build key data sets to empower operational and exploratory analysis.
-
-Monitor key client metrics; understand root causes of changes in metrics.
-
-Build and analyze dashboards and reports.
-
-Evaluate and define metrics.
-
-Automate analyses and author pipelines via SQL and python based ETL framework.
-
-Partner cross functionally to identify opportunities for tools improvement.
-
-Full Stack Developer or Software Engineer
-
-Write Python in our Django framework
-
-Automate analyses and author pipelines via SQL and python based ETL framework.
-
-Partner cross functionally to identify opportunities for tools improvement.
-
-Build, scale, and maintain data warehouse infrastructure
-
-Rapidly prototype front end app
-
-At bridgerock, we value applicants with
-Excellent stakeholder management and communication skills while working with technical and non-technical audiences
-High standards for code quality, testing and performance
-Can-do attitude, fast learner, and great interpersonal skills
-Very strong attention to detail
-A desire to continue learning
-A personal commitment to quality
-Additional Information
-
-At Bridgerock Data, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",-1,Bridgerock Data,"Gainesville, FL","Gainesville, FL",1 to 50 employees,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1
-Data Scientist,-1,"JOB CATEGORY:
-
-Information Services
-
-REQUISITION NUMBER:
-
-351281
-
-ds
-
-A BIT ABOUT OUR DATA SCIENCE & ANALYTICS TEAM
-
-Kinship’s Data Science & Analytics team is core to our strategy. We’re using digital, data and customer insights to transform our business by finding answers to problems that we’ve often never asked ourselves before. Our vast data assets are being combined to build a 360° view of Pets and Pet Owners to not only power Kinship’s businesses but also influence the next great ideas in the Petcare space. This role will be key in helping us understand the power of our data, and how this translates into value for our company, Pets, and Pet Owners. Frequently the projects will be ambiguous, but that’s part of the fun; you will determine the best way to leverage our data to tell the right story for any given audience.
-
-HOW YOU’LL CREATE A BETTER WORLD FOR PETS
-Apply data science approaches to understand and predict pet and pet owner behaviors
-Use machine learning techniques, visualizations, & statistical analysis to gain insight into various data sets – some readily available, and some you create and curate yourself
-Collaborate with internal and external teams to ensure we focus on pet-centric product and service recommendations
-Support new pet technology businesses and partners by generating actionable insights from our data assets
-Develop compelling stories that provide insight into the drivers of business performance and Pet/Pet Owner behavior
-WHO WE NEED TO CHART THE FUTURE OF PET CARE
-
-We strive to hire people who are:
-
-Optimistic. Those who’s boundlessly energy and enthusiasm for what’s next shines through in everything they do. We seek to work with people who are intrinsically happy, and who will drive our vision and purpose while managing the complexities of our businesses.
-
-Purposefully Inquisitive. Those who are courageous and use their deep business insights to cultivate innovation. We want the trailblazers in tech. Those who are entrepreneurs at heart, ask the tough questions, adapt quickly to new situations, and analyze data in new ways to push our big ideas forward.
-
-Open to All. Those who are inclusive leaders, committed to learning, and leveraging our differences as strengths. We hire people who are naturally collaborative and thrive in a flat and flexible organization. Those who are thoughtful communicators, and seek to foster meaningful relationships across our community of diverse partners.
-
-And for this role, we hope you have the following skills we require to round out our team:
-Exceptional written & verbal communication, coupled with critical thinking skills.
-Truly inspired by, and want to live, our purpose of creating a better world for pets.
-1+ years’ experience in a data science role handling varied and complex data
-Proficiency in machine learning modeling and statistical thinking (random forest, decision trees, supervised and unsupervised modeling, etc.)
-Hands-on experience with Python is required; Familiarity with PySpark is also desirable
-Comfortable with ambiguity, with a passion for collaboration to achieve objectives
-A Bachelor’s degree in quantitative field (economics, statistics, business, computer science) or equivalent experience
-If you also had these experiences, you’d knock it out of the dog park:
-Passion for growing and strengthening a business using data driven approaches
-Familiarity with cloud-based computing services e.g. AWS, Databricks, etc.
-Enjoys explaining how models and systems work to both non-technical and technical stakeholders.
-.
-
-Nearest Major Market: Portland Oregon
-Job Segment:
-Database, Scientific, Computer Science, Cloud, Statistics, Technology, Engineering, Data
-
-Apply now »",3.9,"Mars
-3.9",Oregon,"Mc Lean, VA",10000+ employees,1911,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),-1
-Data Platforms Administrator,-1,"As a Platform Administrator on the Distributed Data Services team at CH Robinson, you will leverage your experience and passion for technology to oversee the daily execution of processes, operations, and support activities within the wide realm of distributed data services, NOSQL technologies, data science tooling, and data streaming platforms. This team is responsible for deploying and managing platforms and tools to support our distributed data, data science, and data streaming strategies. They’re currently with platforms including: Kafka, ElasticSearch, MongoDB, Redis, InfluxDB, Hadoop/Spark, JupyterHub, HBase, and Hive. The team takes an infrastructure-as-code approach to these technologies, and strives to automate wherever, and whenever possible. We aim to take these technologies to a “Platform as a Service” level wherever possible.
-
-The Distributed Data Services practice is transforming the way that data is delivered and stored within C.H. Robinson. We are looking for a creative individual that is passionate about automation, data, and Infrastructure (and capable on all three fronts). As a team, we strive to automate, to innovate, to optimize, and to deliver a great platform experience on every front.
-
-Responsibilities:
-Facilitate the continuous re-engineering of fluid data platforms and pipelines
-Support End-to-End Data Science Lifecycle ecosystem (Tools, Applications, Deployments)
-Ensure 24x7 availability of distributed data platforms
-Custom development and automation around the provisioning and operations of platforms
-Promote proper and efficient use of platforms
-Partner with AppDev, Data Science, and Infrastructure teams on evaluation and feasibility assessment of new platforms and technologies
-Oversee and ensure production readiness of new technologies/platforms
-Maintain documentation on processes and procedures
-On-Call duty as required
-Required Qualifications:
-
-2+ years of Enterprise experience building and maintaining highly-available production systems
-Knowledge of at least one of the following, with the desire and aptitude to learn more: Bash, Python, Powershell, Ansible, Golang, SQL
-Knowledge and experience with at least one of the following, with a desire and aptitude to learn all: Kafka, ElasticSearch, MongoDB, Redis, InfluxDB, Hadoop/Spark, Hive, HBase
-Must be proficient with Linux
-Must be familiar with containerization
-Familiarity with microservice architecture and Restful API’s
-Basic knowledge of SQL
-Understanding of the principles of continuous integration and continuous deployment
-High School diploma or GED
-Preferred Qualifications:
-
-Bachelor’s degree in Computer Science or related field
-Experience/familiarity with container orchestration platforms a plus (i.e. Mesosphere, Kubernetes, Swarn)
-Comfortable with Agile methodologies
-Excellent facilitation and communication skills
-Positive, collaborative attitude
-Proactive, accountable, autonomous, and solutions oriented
-Benefits
-We are proud to offer a top-tier benefits package, including medical, dental, vision, life and disability insurance, prescription drug coverage, paid parental leave, paid holidays and paid time off (PTO), 401K with company match, employee stock purchase plan, as well as a broad range of career development opportunities.
-
-Affirmative Action Employer/EOE/M/F/Disabled/Veteran",3.3,"C.H. Robinson
-3.3","Eden Prairie, MN","Eden Prairie, MN",10000+ employees,1905,Company - Public,Logistics & Supply Chain,Transportation & Logistics,$10+ billion (USD),-1
-"Data Scientist, Office of Data Science",$91K-$132K (Glassdoor est.),"Help shape the future of Data Science across Liberty!
+4.4","Mountain View, CA","New York, NY",51 to 200 employees,2017,Company - Public,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"SpotX, FreeWheel, TubeMogul",0,0,101,177,139.0,"Telaria
+", CA,0,3,1,0,1
+$91K-$132K (Glassdoor est.),"Help shape the future of Data Science across Liberty!
 
 As a technical member of the Office of Data Science (ODS), Enablement & Collaboration unit, you will work with a team of data science (DS) and machine learning (ML) experts to solve Liberty's most challenging data science problems.
 
@@ -667,8 +449,9 @@ We value your hard work, integrity and commitment to positive change. In return 
 Overview:
 At Liberty Mutual, we give motivated, accomplished professionals the opportunity to help us redefine what insurance means; to work for a global leader with a deep sense of humanity and a focus on improving and protecting everyday lives. We create an inspired, collaborative environment, where people can take ownership of their work; push breakthrough ideas; and feel confident that their contributions will be valued and their growth championed.
 We're dedicated to doing the right thing for our employees, because we know that their fulfillment and success leads us to great places. Life. Happiness. Innovation. Impact. Advancement. Whatever their pursuit, talented people find their path at Liberty Mutual.",3.3,"Liberty Mutual Insurance
-3.3","Boston, MA","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm"
-Data Scientist,$38K-$59K (Glassdoor est.),"About Us
+3.3","Boston, MA","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,91,132,111.5,"Liberty Mutual Insurance
+", MA,1,108,1,0,0
+$38K-$59K (Glassdoor est.),"About Us
 
 Founded in Syracuse in 1992, we are a critical response center focused on saving lives and protecting homes and businesses. Whether its a fire at a family home, an armed intruder at a business, a missing vehicle, an evening jogger, or a lone family member having a medical emergency, our heroes are there to help every day. Supported by teams of experts in their respective fields, our 600+ highly trained specialists are the 24/7 backbone for thousands of alarm companies across the country.
 
@@ -704,8 +487,9 @@ Rapid Response Monitoring Services, Inc. is committed to providing access, equal
 For technical support or questions regarding the Recruiting process, please contact by sending an e-mail jobs@rrms.com. We are a company that participates in e-verify. For more information, see https://www.e-verify.gov/about-e-verify/what-is-e-verify
 
 INDCAMP2",4.7,"Rapid Response Monitoring
-4.7","Syracuse, NY","Syracuse, NY",501 to 1000 employees,1992,Company - Private,Security Services,Business Services,Unknown / Non-Applicable,"COPS Monitoring, National Monitoring Center, Affiliated Monitoring"
-Data Engineer,$92K-$165K (Glassdoor est.),"At Edmunds were driven to make car buying easier. Ever since we began publishing printed car guides in the 60s, the company has been in the business of trust, innovating ways to empower and support car shoppers. When Edmunds launched the car industrys first Internet site in 1994, we established a leadership position online and have never looked back. Now, as one of the most trusted review sites on the Internet, millions of visitors use our research, shopping and buying tools every month to make an easy and informed decision on their next car. For consumers, we bring peace of mind. For dealers, we make tools to help them solve their problems and sell more cars. How do we do it, you ask? The key ingredients are our enthusiastic employees, progressive company culture and cutting-edge technology. Want to join the team? Read on to find out how!
+4.7","Syracuse, NY","Syracuse, NY",501 to 1000 employees,1992,Company - Private,Security Services,Business Services,Unknown / Non-Applicable,"COPS Monitoring, National Monitoring Center, Affiliated Monitoring",0,0,38,59,48.5,"Rapid Response Monitoring
+", NY,1,28,1,0,0
+$92K-$165K (Glassdoor est.),"At Edmunds were driven to make car buying easier. Ever since we began publishing printed car guides in the 60s, the company has been in the business of trust, innovating ways to empower and support car shoppers. When Edmunds launched the car industrys first Internet site in 1994, we established a leadership position online and have never looked back. Now, as one of the most trusted review sites on the Internet, millions of visitors use our research, shopping and buying tools every month to make an easy and informed decision on their next car. For consumers, we bring peace of mind. For dealers, we make tools to help them solve their problems and sell more cars. How do we do it, you ask? The key ingredients are our enthusiastic employees, progressive company culture and cutting-edge technology. Want to join the team? Read on to find out how!
 
 What Youre Applying For:
 
@@ -764,8 +548,9 @@ Employees think its a pretty great place to work and some pretty impressive publ
 Edmunds will consider for employment qualified candidates with criminal histories in a manner consistent with the requirements of all applicable laws.
 
 *LI-POST",3.6,"Edmunds.com
-3.6","Santa Monica, CA","Santa Monica, CA",501 to 1000 employees,1966,Company - Private,Internet,Information Technology,$100 to $500 million (USD),"TrueCar, Cars.com, Kelley Blue Book"
-Data Scientist,$61K-$99K (Glassdoor est.),"New England Biolabs is seeking a Data Scientist to build, improve and utilize the varied and complex data sources we use to make excellent biological products.
+3.6","Santa Monica, CA","Santa Monica, CA",501 to 1000 employees,1966,Company - Private,Internet,Information Technology,$100 to $500 million (USD),"TrueCar, Cars.com, Kelley Blue Book",0,0,92,165,128.5,"Edmunds.com
+", CA,1,54,1,0,1
+$61K-$99K (Glassdoor est.),"New England Biolabs is seeking a Data Scientist to build, improve and utilize the varied and complex data sources we use to make excellent biological products.
 
 NEB provides a world-class working environment including high quality computational infrastructure, skilled colleagues, and opportunities to exchange knowledge with internal and external scientists.
 
@@ -792,51 +577,9 @@ Cluster computing and scientific workflow frameworks (Galaxy, Nextflow, snakemak
 New England Biolabs, Inc. is an Equal Opportunity/Affirmative Action Employer of Minorities, Females, Disabled and Protected Veterans and a participating employer in the Employment Verification (E-Verify) program. More in-depth details of EEO are available here.
 
 If you need an accommodation for any part of the employment process because of a medical condition or disability, please send an email to hr@neb.com or call 978-927-5054 to let us know the nature of your request.",4.7,"New England Biolabs
-4.7","Ipswich, MA","Ipswich, MA",201 to 500 employees,1974,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Thermo Fisher Scientific, Enzymatics, Illumina"
-Data Analyst,-1,"The Programmatic Analytics and Strategy team at Zeta Global provide actionable insights to both external customers and internal teams. For external customers, analysts partner with Sales and Customer Success teams to monitor our optimization platform, design Real-time Brand Optimization surveys, introduce humanly designed segments to boost model exploration and learning, and deliver actionable insight presentations and lead marketing strategy discussions with clients. For internal teams, they provide feedback to our Product and Engineering teams on automation and model features to advance the reliability, reach, and effectiveness of programmatic campaigns.
-
-What you’ll do:
-Own campaign performance and reporting insights while recommending opportunities for optimization.
-Weekly review of performance of models across revenue, performance, and pacing.
-Design and implement tests to evaluate model and feature performance.
-Work with clients to understand key business challenges and design analytic and testing plans to derive actionable intelligence.
-Work with clients and internal teams to create real-time brand optimization studies that align with campaign goals, but also create strong, clear signals that our models can use to optimize campaign delivery and performance.
-Consult with clients regarding development & alignment of marketing programs across on-line channels.
-Determine set-up, including testing methodologies, reporting requirements, and optimization modeling requirements, for ensuring full impact and efficiency of optimization efforts.
-Communicate campaign optimization results to clients to prove value against original business goals.
-Who you are:
-A great communicator who is able to convey complex technical features in simple terms.
-Someone with an aptitude for media and strategy and able to contextually relay concepts to clients.
-Able to multitask and prioritize among several high-profile clients.
-Have a high degree of creativity, self-motivation, and drive.
-Eagerness to work in a startup team environment that will be rapidly changing
-Enthusiastic team player with a penchant for collaboration and knowledge sharing.
-Willingness to do whatever it takes to get the job done.
-Nerdy but loveable.
-Data driven, technical, self-starting and curious.
-What you need:
-2-4 years of working experience in a similar role.
-Extensive experience with SQL and Excel/pivot tables.
-Excellent presentation/visualization/storytelling skills with PowerPoint.
-Excellent diagnostic skills.
-Technical acumen to understand how to design campaigns that optimize the use of our tech platform.
-Professional oral and written communication skills.
-Client facing experience.
-Bachelors degree in Business, Finance, Economics, Statistics, Marketing or equivalent experience.
-Bonus if you have:
-Experience in a digital media/Programmatic analytics role
-Experience puling & putting together audience insights reports
-Experience with VBA/Excel Macros, Tableau, Python, SAS or other data manipulation tools a plus.
-#LI-MC1
-
-About Zeta Global
-Zeta Global is a data-powered marketing technology company with a heritage of innovation and industry leadership. Founded in 2007 by entrepreneur David A. Steinberg and John Sculley, former CEO of Apple Inc and Pepsi-Cola, the Company combines the industry’s 3rd largest proprietary data set (2.4B+ identities) with Artificial Intelligence to unlock consumer intent, personalize experiences and help our clients drive business growth.
-
-Our technology runs on the Zeta Marketing Platform, which powers ‘end to end’ marketing programs for some of the world’s leading brands. With expertise encompassing all digital marketing channels – Email, Display, Social, Search and Mobile – Zeta orchestrates acquisition and engagement programs that deliver results that are scalable, repeatable and sustainable.
-
-Zeta Global is an Equal Opportunity/Affirmative Action employer and does not discriminate on the basis of race, gender, ancestry, color, religion, sex, age, marital status, sexual orientation, gender identity, national origin, medical condition, disability, veterans status, or any other basis protected by law.",3.3,"Zeta Global
-3.3",New York State,"New York, NY",1001 to 5000 employees,2007,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),-1
-Data Engineer,$90K-$112K (Glassdoor est.),"Sonos has mountains of data, but that data is only useful if it is collected, stored and presented accurately. As a Data Engineer, you will be responsible for creating custom data sets, discovering data anomalies, generating test data, and implementing data quality improvements while participating in an Agile environment. This is an exciting, high visibility position in a rapidly expanding team at the forefront of a shift to a data-driven business.Data engineers work on a cross-functional team as equal partners with our PMs, Data Scientists and Data Platform Engineers. The whole team is responsible for designing, developing, testing, delivering, and supporting our IoT data systems. In this role, you will:
+4.7","Ipswich, MA","Ipswich, MA",201 to 500 employees,1974,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Thermo Fisher Scientific, Enzymatics, Illumina",0,0,61,99,80.0,"New England Biolabs
+", MA,1,46,1,0,0
+$90K-$112K (Glassdoor est.),"Sonos has mountains of data, but that data is only useful if it is collected, stored and presented accurately. As a Data Engineer, you will be responsible for creating custom data sets, discovering data anomalies, generating test data, and implementing data quality improvements while participating in an Agile environment. This is an exciting, high visibility position in a rapidly expanding team at the forefront of a shift to a data-driven business.Data engineers work on a cross-functional team as equal partners with our PMs, Data Scientists and Data Platform Engineers. The whole team is responsible for designing, developing, testing, delivering, and supporting our IoT data systems. In this role, you will:
 Building large scale batch or stream-processing systems, using solutions such as Apache Spark and AWS Kinesis
 Work with PMs and data scientists to integrate data from multiple data sources
 Work with different data storage techniques such as NoSQL databases, HBase, Cassandra, and Snowflake
@@ -847,8 +590,9 @@ Knowledge of Spark, Github, SQL
 Understanding of data structures and big data.
 Working knowledge of AWS cloud architecture and associated technologies
 Passion and ability for solving intractable problems. Superior critical thinking skills.",4.2,"Sonos
-4.2","Seattle, WA","Santa Barbara, CA",1001 to 5000 employees,2002,Company - Public,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),Bose
-Data Scientist,$89K-$109K (Glassdoor est.),"About Us
+4.2","Seattle, WA","Santa Barbara, CA",1001 to 5000 employees,2002,Company - Public,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),Bose,0,0,90,112,101.0,"Sonos
+", WA,0,18,1,0,1
+$89K-$109K (Glassdoor est.),"About Us
 
 
 Interested in working for a human-centered technology company that prides itself on using modern tools and technologies? Want to be surrounded by intensely curious and innovative thinkers?
@@ -894,54 +638,9 @@ Dress Code - we don't have one
 These roles are located in St. Louis, MO. While we would prefer local candidates your location is not the most important factor; please help us understand why you would like to call St. Louis home if you would be relocating.
 
 ]]>",4.7,"1904labs
-4.7","Saint Louis, MO","Saint Louis, MO",51 to 200 employees,2016,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,"Slalom, Daugherty Business Solutions"
-Python Data Engineer,-1,"Status: Available
-Posted On: 1/24/2020
-Job Location: Houston, TX
-Salary
-Job Type: Full Time
-Education:
-• Degree (BS, MS, or PhD) in Computer Science, Electrical and Computer Engineering, Software Engineering, or Information Systems preferred; any STEM BS, MS or PhD with appropriate work experience will be considered
-
-Experience:
-• 2+ years of professional Python software design and development
-• Linux administration experience a plus
-• Experience developing in containerized environments (Docker, LXC)
-• Experience with multiprocessing and multithreading in Python
-• Experience with MongoDB and Redis is a plus
-• Experience with a pipeline framework like Prefect, Airflow, Luigi is a plus
-• Experience with AWS or other cloud service a plus
-
-Job Categories:
-Engineering
-
-Energy
-
-Position Summary:
-Our client is looking for a talented data engineer to build robust data pipelines to pull data from various data sources, apply transformation logic, and combine into large datasets that support model building and scoring in production.
-
-Classification: Non-exempt
-
-Essential Responsibilities:
-• Design and develop data pipelines in Python
-• Abstract, refactor, and package reusable code for broad use
-• Develop test suites to ensure code works as planned and enable fast edits as business requirements change
-
-Skills/Knowledge:
-• Expert-level Python programming
-• Test-driven development
-• Building and monitoring data pipelines
-• Proficient with the following Python packages: SQLAlchemy, pandas, sphinx, and pytest
-• Git
-• SQL
-• Continuous Integration and Deployment (Gitlab-ci, Ansible, Jenkins, or equivalent)
-• Ability to design Python software from scratch
-• Desire to automate everything
-• Good communication skills
-• Independent and self-driven worker
-• Creative problem solver",2.9,"Riverway Business Services
-2.9","Houston, TX","Bellaire, TX",1 to 50 employees,1990,Private Practice / Firm,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),-1
-Claim Manager,$78K-$99K (Glassdoor est.),"Our Mission:
+4.7","Saint Louis, MO","Saint Louis, MO",51 to 200 employees,2016,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,"Slalom, Daugherty Business Solutions",0,0,89,109,99.0,"1904labs
+", MO,1,4,1,0,1
+$78K-$99K (Glassdoor est.),"Our Mission:
 We’re here to create a safer, happier and more mindful future for all with the help of data science, engineering, design, and mobile technology. We're starting by reinventing insurance, by rethinking the technologies that enable it, but our true goal is to build a platform that rewards people for driving well — creating safer roads with fewer accidents in the process.
 Backed by impressive funding, we're poised to re-engineer a trillion-dollar category, and that’s just the beginning. We’re using rich customer insights, advanced technology and data science to build our cloud-native InsurTech solution, and other things we haven’t even dreamt up yet. We're out to change behavior and promote mindful living at a societal level. But the key to us being successful in our mission isn’t just about nailing the technology—it’s about hiring the talented people who can help us make a quantifiable impact in the world. We’re growing our world-class team.
 And that’s where you come in.
@@ -967,8 +666,9 @@ Salary: We invest in first-rate people and pay top-of-market salaries for most p
 Benefits: Full medical, wellness reimbursement, four weeks of PTO +6 weeks of parental leave (12 weeks for parents who give birth), and great work-life balance.
 Location: Providence, RI
 HiRoad Assurance Company is an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.",5.0,"HiRoad
-5.0","Providence, RI","Bloomington, IL",1 to 50 employees,-1,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable,"Progressive Insurance, GEICO, Esurance"
-Data Science Director (Senior Director),$94K-$109K (Glassdoor est.),"At American Family Insurance, we’re driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
+5.0","Providence, RI","Bloomington, IL",1 to 50 employees,-1,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable,"Progressive Insurance, GEICO, Esurance",0,0,78,99,88.5,"HiRoad
+", RI,0,-1,0,0,0
+$94K-$109K (Glassdoor est.),"At American Family Insurance, we’re driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
 
 Job ID:
 R15662 Data Science Director (Senior Director) (Open)
@@ -1075,8 +775,9 @@ Additional Job Information:
 
 
 Stay connected: Join our Talent Community!",3.5,"American Family Insurance
-3.5","Chicago, IL","Madison, WI",5001 to 10000 employees,1927,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),"State Farm, Farmers Insurance Group, Nationwide"
-HR Reporting & Data Analyst,$103K-$122K (Glassdoor est.),"Primary Purpose:
+3.5","Chicago, IL","Madison, WI",5001 to 10000 employees,1927,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),"State Farm, Farmers Insurance Group, Nationwide",0,0,94,109,101.5,"American Family Insurance
+", IL,0,93,1,0,0
+$103K-$122K (Glassdoor est.),"Primary Purpose:
 
 Responsible for supporting all HR systems with a primary focus on system reporting and auditing of data in the Human Capital Management System (Workday). The analyst will, under general supervision, perform daily operations and support and analysis of all data, including but not limited to employee headcount, compensation, benefits, and payroll.
 
@@ -1115,8 +816,9 @@ Familiarity with HR processes including end-to-end processes for recruiting, onb
 National General Holdings Corp. is an Equal Opportunity (EO) employer Veterans/Disabled and other protected categories. All qualified applicants will receive consideration for employment regardless of any characteristic protected by law. Candidates must possess authorization to work in the United States, as it is not our practice to sponsor individuals for work visas.
 
 In the event you need assistance or accommodation in completing your online application, please contact NGIC main office by phone at (336) 435-2000.",2.8,"National General Insurance
-2.8","Winston-Salem, NC","New York, NY",5001 to 10000 employees,1939,Company - Public,Insurance Carriers,Insurance,$2 to $5 billion (USD),"Progressive Insurance, Kemper, National Interstate"
-"Data Science Researcher, CX Index",$95K-$116K (Glassdoor est.),"Imagine the possibilities of change. It starts with an insatiable curiosity about clients, colleagues, and the future. At Forrester, we believe curiosity powers progress. Forresterites bring a diversity of opinions and the courage of their convictions to collaborate on the ideas and initiatives that change the course of business. As a trusted advisor to the most influential companies in the world, we live at the nexus of what’s next. Our purpose is to imagine the possibilities of change. Our job is to be bold at work.
+2.8","Winston-Salem, NC","New York, NY",5001 to 10000 employees,1939,Company - Public,Insurance Carriers,Insurance,$2 to $5 billion (USD),"Progressive Insurance, Kemper, National Interstate",0,0,103,122,112.5,"National General Insurance
+", NC,0,81,0,0,0
+$95K-$116K (Glassdoor est.),"Imagine the possibilities of change. It starts with an insatiable curiosity about clients, colleagues, and the future. At Forrester, we believe curiosity powers progress. Forresterites bring a diversity of opinions and the courage of their convictions to collaborate on the ideas and initiatives that change the course of business. As a trusted advisor to the most influential companies in the world, we live at the nexus of what’s next. Our purpose is to imagine the possibilities of change. Our job is to be bold at work.
 About This Role:
 The Customer Experience Index (CX Index™) product team supports our clients with the most complete and powerful proprietary CX tool in the market today. The CX Index evaluates more than 600 brands across 16 industries in North America, Europe, and Asia. It gives our clients a deep and actionable understanding of the quality of their customer experience, competitive benchmark data so that our clients know how they stack up against their peers, and the ability to model which improvements will have the biggest impact on our clients’ revenue.
 The Data Science Researcher is a critical member of the CX Index product team. Using survey-based transactional, operational, and behavioral data, you will perform data analytics to drive insights and client decision making. You will also be a key member of the team driving Forrester’s CX analytics forward, bringing together multiple data sources to create a cohesive story based on clear and persuasive analysis. Forrester is looking for a candidate who has experience translating data into actionable insights and linking it to the client’s business initiatives. The candidate should have some background in measuring and analyzing consumer or business behaviors, combined with writing and presentation skills.
@@ -1152,8 +854,9 @@ Glassdoor
 FLSA Status:
 Exempt
 Forrester Research, Inc. is an Equal Opportunity/Affirmative Action Employer that is committed to equal employment opportunity for all qualified individuals without regard to race, color, religion, national origin, ancestry, sex, age, disability, sexual orientation, gender identity and expression, marital status, genetic information, military service, veteran status, or any other status protected by applicable law. Minorities, Women, Individuals with Disabilities, and Veterans are especially encouraged to apply.",4.3,"Forrester
-4.3","Cambridge, MA","Cambridge, MA",1001 to 5000 employees,1983,Company - Public,Research & Development,Business Services,$100 to $500 million (USD),-1
-Data Science Manager,$122K-$162K (Glassdoor est.),"Decode_M
+4.3","Cambridge, MA","Cambridge, MA",1001 to 5000 employees,1983,Company - Public,Research & Development,Business Services,$100 to $500 million (USD),-1,0,0,95,116,105.5,"Forrester
+", MA,1,37,1,0,0
+$122K-$162K (Glassdoor est.),"Decode_M
 
 https://www.decode-m.com/
 
@@ -1183,8 +886,8 @@ Manage Process. Work across teams and with Decode_M’s leadership to ensure tha
 
 Build Tools. Use data from social media, online reviews, mainstream media sites, search, web traffic, quantitative research, CRMs or other databases, etc. to uncover intelligence around growth opportunities and business challenges. Build software and/or repeatable processes to scale this work
 
-Grow our Capabilities. Advance our expertise in applying statistics and machine learning to digital trends, CRM data, and quantitative research. Know the state of the field well enough to know when to reach for best-in-class tools and when to design your own solutions",-1,Decode_M,"New York, NY","New York, NY",1 to 50 employees,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1
-Data Scientist,$65K-$116K (Glassdoor est.),"The Data Scientist will be joining a team of extremely passionate data scientists, product managers, and engineerswho share a common interest in tackling some of the most difficult data science and machine learning problems today. With the data products and machine learning systems you design, 7Park will arm influential decision-makers at financial and corporate giants with critical information they need to make smart, data-driven decisions. Along the way, you will help advance the current work in artificial intelligence and predictive modeling. Our technologies and data power the insights for financial services and corporations.
+Grow our Capabilities. Advance our expertise in applying statistics and machine learning to digital trends, CRM data, and quantitative research. Know the state of the field well enough to know when to reach for best-in-class tools and when to design your own solutions",-1.0,Decode_M,"New York, NY","New York, NY",1 to 50 employees,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1,0,0,122,162,142.0,Decode_M, NY,1,-1,1,0,0
+$65K-$116K (Glassdoor est.),"The Data Scientist will be joining a team of extremely passionate data scientists, product managers, and engineerswho share a common interest in tackling some of the most difficult data science and machine learning problems today. With the data products and machine learning systems you design, 7Park will arm influential decision-makers at financial and corporate giants with critical information they need to make smart, data-driven decisions. Along the way, you will help advance the current work in artificial intelligence and predictive modeling. Our technologies and data power the insights for financial services and corporations.
 
 The compensation package includes a competitive salary and incentive structure, generous benefits, and valuable business experiences, challenges, and excitement of contributing to the success of a fast-growing technology startup company.
 
@@ -1213,4 +916,5 @@ Solutions oriented approach and multi-dimensional problem solving
 Highly self-motivated and results oriented, proven track record of exceeding goals
 Commitment to success and willingness to put forth the effort to achieve it
 Strong written and verbal English communication skills",3.8,"7Park Data
-3.8","New York, NY","New York, NY",51 to 200 employees,2012,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,-1
+3.8","New York, NY","New York, NY",51 to 200 employees,2012,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,-1,0,0,65,116,90.5,"7Park Data
+", NY,1,8,1,0,1

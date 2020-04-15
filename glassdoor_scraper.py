@@ -1,4 +1,3 @@
-
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
 import time
@@ -137,14 +136,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                     competitors = -1
 
             except NoSuchElementException:  #Rarely, some job postings do not have the "Company" tab.
-                headquarters = -1
-                size = -1
-                founded = -1
-                type_of_ownership = -1
-                industry = -1
-                sector = -1
-                revenue = -1
-                competitors = -1
+               pass
 
                 
             if verbose:

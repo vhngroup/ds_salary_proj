@@ -6,12 +6,12 @@ contry = '' #ingrese las iniciales del pais o ciudad a filtrar
 year = 2020
 
 def main():
-      inicializar()
+      #inicializar()
       extrac_Data()
 
 def inicializar():
    path =  "D:/Git/ds_salary_proj/chromedriver"
-   df = gs.get_jobs('data science', 200, False, path, 15)
+   df = gs.get_jobs('data science', 1000, False, path, 15)
    df.to_csv('glassdoor_jobs.csv', index = False)
 
 

@@ -1,4 +1,5 @@
 import pandas as  pd
+df = pd.read_csv('glassdoor_jobs.csv')
 import untitled
 
 
@@ -23,10 +24,12 @@ def load_data():
     
     #Name Company
     df['company_txt'] = df.apply(lambda x: x['Company Name'] if x['Rating'] <0 else x['Company Name'][:-3], axis = 1)
+    
     #state field
-    df['job_state'] = df['Location'].apply(lambda x: x.split(',')[0])
-    
-    
+    #if len(df['Location'])
+    df['job_state'] = df['Location'].apply(lambda x: x.split(",")[0])
+
+        
     #comparamos si la columna locaciòn "ciudad" y la columna Headquarters "sede" par determinar donde sera el trabajo.
     df['some_state'] = df.apply(lambda x: 1 if x.Location == x.Headquarters else 0, axis = 1)
     

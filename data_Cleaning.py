@@ -1,5 +1,4 @@
 import pandas as  pd
-df = pd.read_csv('glassdoor_jobs.csv')
 import untitled
 
 
@@ -27,7 +26,7 @@ def load_data():
     
     #state field
     #if len(df['Location'])
-    df['job_state'] = df['Location'].apply(lambda x: x.split(",")[0])
+    df['job_state'] = df['Location'].apply(lambda x: x.split(",")[1] if  len(x.split(",")) == 2 else x.split(",")[0]) # se soluciona problema de fuera de indice, cuando se presenten ciudades sin siglas.
 
         
     #comparamos si la columna locaciòn "ciudad" y la columna Headquarters "sede" par determinar donde sera el trabajo.

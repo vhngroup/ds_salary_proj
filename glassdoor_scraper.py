@@ -1,7 +1,9 @@
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
+from selenium.webdriver.common.action_chains import ActionChains
 from selenium import webdriver
 import time
 import pandas as pd
+
 
 def get_jobs(keyword, num_jobs, verbose, path, slp_time):
     
@@ -12,7 +14,6 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
     
     #Uncomment the line below if you'd like to scrape without a new Chrome window every time.
     #options.add_argument('headless')
-    
     #Change the path to where chromedriver is in your home folder.
     driver = webdriver.Chrome(executable_path=path, options=options)
     driver.set_window_size(1120, 1000)
@@ -22,7 +23,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
     #url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword="' + keyword + '"&locT=C&locId=1147401&locKeyword=San%20Francisco,%20CA&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=true&radius=100&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&seniorityType=all&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0'
     driver.get(url)
     jobs = []
-
+    # Actions act = new Actions(driver);
     while len(jobs) < num_jobs:  #If true, should be still looking for new jobs.
 
         #Let the page load. Change this number based on your internet speed.
@@ -35,7 +36,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
         except ElementClickInterceptedException:
             pass
 
-        time.sleep(.1)
+        time.sleep(.2)
 
         try:
             driver.find_element_by_css_selector('[alt="Close"]') .click()  #clicking to the X.
@@ -45,7 +46,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
             pass
 
         #Going through each job in this page
-        job_buttons = driver.find_elements_by_class_name("jl")  #jl for Job Listing. These are the buttons we're going to click.
+        job_buttons = driver.find_elements_by_class_name("jobContainer")  #jl for Job Listing. These are the buttons we're going to click.
         for job_button in job_buttons:
 
             print("Progress: {}".format("" + str(len(jobs)) + "/" + str(num_jobs)))
@@ -53,7 +54,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                 break
 
             job_button.click()  #You might
-            time.sleep(1)
+            time.sleep(2)
             collected_successfully = False
             
             while not collected_successfully:
@@ -92,10 +93,6 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                 driver.find_element_by_xpath('.//div[@class="tab" and @data-tab-type="overview"]').click()
 
                 try:
-                    #<div class="infoEntity">
-                    #    <label>Headquarters</label>
-                    #    <span class="value">San Francisco, CA</span>
-                    #</div>
                     headquarters = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Headquarters"]//following-sibling::*').text
                 except NoSuchElementException:
                     headquarters = -1

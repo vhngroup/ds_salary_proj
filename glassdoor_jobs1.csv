@@ -1,0 +1,1216 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Director of Data Science,$87K-$173K (Glassdoor est.),"The Role:
+
+The Director of Data Science is responsible for managing our team of data scientists and analysts. In this role, you will be a true partner to our Go-To-Market leadership team. You will provide data science expertise to projects and drive delivery of solutions. This team uses data-driven methods to power decisions, inform strategy, build robust data models, and identify opportunities to uncover insights about our customers. Your team will stay on top of challenges occurring in the business and will be able to anticipate the future data needs of the business. Reporting directly to the Chief Financial Officer, you'll lead your team to drive value by delivering insightful, intuitive data products.
+
+Why You'll Love This Role:
+
+Newsela has an incredible opportunity to leverage data and develop strategy to increase retention and across GTM and customer segments. As a key leader in our GTM strategy, you'll use predictive modeling techniques and create efficiencies in our GTM campaigns. Your team will enable us to bring our products to even more teachers and students on a global scale. Supporting our growth means that your work is ultimately enhancing the learning and teaching experience in K-12 education, and inspiring engaged, empathetic students to make the most of their time in and outside of the classroom.
+
+Why We'll Love You:
+
+Your 7+ years of data science experience has given you a strong understanding of strategy, analysis, and execution, ideally in an enterprise or SaaS environment. You've built and executed a data roadmap that matures with the business. You have a strong mathematics and/or statistics background with technical expertise in SQL, Python and R. You're a highly analytical, strategic forward thinker who has experience acquiring and vetting new data sources effectively. You are able to translate complex concepts to a variety of audiences and support achieving business outcomes with a cross-functional team. Your passion for data is matched by your passion for growing and upskilling your team; you've successfully hired and developed a top-performing data science team that contributes meaningfully to business growth and team culture.
+
+About Newsela:
+
+Newsela is an Instructional Content Platform that combines engaging, leveled content with integrated formative assessments and insights to supercharge engagement and learning in every subject. Students and teachers use Newsela to find digital content from 100+ of the best sources—from National Geographic to NASA, Biography.com to Encyclopedia Britannica, the Washington Post to the Wichita Eagle. Content is instructionalized to meet students where they are, with interactive tools and analytics to take them where they want to go. Newsela has become an essential solution for schools and districts, with a presence in over 90% of U.S. K-12 schools. Newsela is the content platform for the connected",4.2,"Newsela
+4.2","New York, NY","New York, NY",201 to 500 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Achieve3000, Schoology, Clever"
+Data Science Intern,-1,"Fullpower® designs, develops and operates a complete platform for hybrid Edge/Cloud AI, algorithms, big data, predictive analytics, together with end-to-end engineering services. The Company’s platform is backed by a patent portfolio of 125+ patents. The Company’s key areas of expertise are biomedical, non-invasive PSG-level sleep technology. The Company’s markets are in Medical Solutions, Clinical Trials, SmartHome and Wearable. Fast growing with endless opportunities, come join the Fullpower world-class team.
+
+Fullpower Technologies is seeking passionate, team-oriented, and self-motivated data science interns to join our team.
+
+Overview:
+
+Work to connect biomedical data with medical, health, and fitness outcomes
+Collaborate closely with an interdisciplinary team of scientists, engineers, mathematicians
+Responsibilities may include:
+Develop machine learning and statistical models
+Perform analytics across large databases of sleep, activity, and health data
+Develop visualizations and tools for understanding and annotating data
+Design and run experiments
+Preferred Qualifications:
+Experience in Python and data-science-related packages such as pandas and scikit-learn
+Experience working with databases including familiarity with SQL
+Experience with deep learning frameworks such as TensorFlow, PyTorch, or equivalent
+Requirements:
+Pursuing or recent BS or higher degree in Mathematics, Physics, Computer Science, Engineering, or a related discipline
+Experience with and enthusiasm for machine learning, data analytics, visualization, and/or statistics
+High self motivation and positive attitude
+Fullpower does not sponsor work visas — must already be authorized to work in the United States",4.5,"Fullpower Technologies, Inc.
+4.5","Santa Cruz, CA","Santa Cruz, CA",51 to 200 employees,2003,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),-1
+"Staff Data Scientist, Ads",$133K-$216K (Glassdoor est.),"""The front page of the internet,"" Reddit brings over 430 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities.
+
+We are looking for a Staff Data Scientist to work with our Ads team. You will work closely with engineers and product owners from our Ads team to understand how our data can be used to tell a compelling story to brands. In addition to strong analytical skills, this person has a solid business acumen and understanding of what is important to advertisers.
+
+Responsibilities:
+Serve as a thought-partner for Product Managers and Engineering Managers in influencing the ads roadmap and strategy by identifying opportunities through deep-dive analyses and/or modeling.
+Deeply understand ad auctions and how bid densities affect CPMs, CPCs and revenue
+Develop familiarity with managed/reserved, takeover and self-serve environments and specific interplays amongst those ads.
+Help improve the team's understanding of ads targeting, ads pacing, frequency capping, underdelivery and other aspects related to ads delivery.
+Develop models to improve ads performance and advertiser ROI
+Work with cross-functional stakeholders and partners including PMs, Engineers, Solution Engineers and Sales.
+What We Can Expect From You:
+Masters degree or above in a quantitative major (e.g., mathematics, statistics, economics, finance, computer science)
+5+ years of experience in quantitative analytical roles, preferably for a consumer-facing service/app
+2+ years of experience in online advertising
+Proficiency with statistical analysis and programming languages (e.g., R / Python)
+#LI-SAP1",3.8,"Reddit
+3.8","New York, NY",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist - Risk,$76K-$109K (Glassdoor est.),"Job Title: Data Scientist (Risk)
+
+Location: Orlando, Florida
+
+Manager: Head of Data Science
+
+About LSQ
+
+LSQ is a technology-driven provider of accounts receivable financing to companies who need working capital but may not be able to obtain sufficient financing from their bank. Our focus is to help businesses release the liquidity tied up in their accounts receivable. With financing from LSQ, a business can purchase more inventory, fill more orders, and take advantage of new growth opportunities. Our technology and data driven approach to providing working capital, along with our accounts receivable management services, allows our clients to driving business success.
+
+Job Overview
+
+LSQ is searching for a Data Scientist (Risk) to join our growing team of analytics experts. The hire will be responsible for building data driven tools to automate and scale risk decisions decision points include, fraud detection, commercial credit analysis, and invoice payment behavior. The ideal candidate is an experienced researcher and data wrangler who enjoys applying complex theories to solve real world business problems. The Data Scientist will need to collaborate effectively with both technical (engineers, data experts) and non-technical (business users) colleagues to bring the data to life.
+
+Responsibilities of Data Scientist (Risk)
+We have 20+ years of real-world commercial data weve observed businesses and their interactions with other businesses across market cycles, industries, and catastrophic events. Build risk tools that optimize for velocity and scale.
+Build risk tools that optimize science & art you will work with risk experts who have been in the trenches (and learned from losses). Augment human decisions with machine.
+Lay the foundation for scale. A data science framework for optimal data acquisition, model training and deployment. Dont take short-cuts. Bring quantitative and statistical rigor to your body of work.
+Lead by example. You are joining a data team at ground-level. Building and inserting a data team, into a 20+ year old company (organism) will be hard, but rewarding.
+Qualifications for Risk Data Scientist
+Curiosity, Grit, and Humility
+5+ years of experience of hands-on data science role
+Previous experience of building commercial finance risk tools should be beneficial, but not required
+Bachelor or Masters degree in Data Science, Operations Research, Computer Science, Industrial Engineering, Statistics, or another quantitative field
+A toolkit of modern data science techniques
+Experience with any data science tools/packages: Python, R, SAS, XGBoost, TensorFlow, NLTK
+Experience with any big data tools: Hadoop, Spark, Kafka, Data Bricks
+Experience with any reporting tools: Tableau Server, Power BI, SSRS, Excel
+Experience with any AWS cloud services: EC2, EMR, RDS, Redshift, Aurora, S3
+Experience with any Stream-processing systems: Storm, Spark-Streaming
+Position Type and Expected Hours of Work:
+
+This is a full-time position. Days and hours of work are Monday through Friday, 8:00 a.m. to 5 p.m. Occasional evening and weekend work may be required as job duties demand.
+
+Physical Demands:
+
+While performing the duties of this job, the employee is regularly required to sit and use hands to finger, handle, or feel. The employee is frequently required to reach with hands and arms and talk or hear. The employee is occasionally required to stand; walk and stoop, kneel, crouch.
+
+Travel:
+
+There will be minimal travel required for this position.
+
+LSQ is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived, race, religion, color, sex (including pregnancy and gender identity), sexual orientation, parental status, national origin, age, disability, family medical history or genetic information, political affiliation, military service, any other non-merit based factor or any other characteristic protected by applicable federal, state or local laws. Our leadership team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment. If youd like more information about your EEO rights as an applicant under the law, please click here http://www1.eeoc.gov/employers/poster.cfm",4.2,"LSQ
+4.2","Orlando, FL","Orlando, FL",51 to 200 employees,1996,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),-1
+Sr. HR Data Analyst - Talent Acquisition,$34K-$50K (Glassdoor est.),"We Are Hiring
+
+Sr. HR Data Analyst - Talent Acquisition
+
+Recruitment Operations
+
+Full-Time, Days
+
+St. Louis, MO (strongly preferred)
+
+Do you have PeopleSoft Query experience? We want to speak with you! You will support our Talent Acquisition team pulling PeopleSoft reports and analyzing the data. Having previous PeopleSoft experience will allow you to jump right in and now the reports to pull.
+
+Why Join Ascension?
+Ascension is a faith-based healthcare organization dedicated to transformation through innovation across the continuum of care. As one of the leading non-profit and Catholic health systems in the U.S., Ascension is committed to delivering compassionate, personalized care to all, especially to those most in need. In FY2018, Ascension provided nearly $2 billion in care of persons living in poverty and other community benefit programs.
+
+Ascension includes approximately 156,000 associates and 34,000 aligned providers. The national health system operates more than 2,600 sites of care – including 151 hospitals and more than 50 senior living facilities – in 21 states and the District of Columbia, while providing a variety of services including physician practice management, venture capital investing, investment management, biomedical engineering, facilities management, clinical care management, information services, risk management, and contracting through Ascension’s own group purchasing organization.
+
+What You Will Do
+
+As a Senior HR Data Analyst, you will have the opportunity to conduct complex data analysis and decision support for designated HR and Talent Acquisition system(s).
+
+Responsibilities:
+Collaborates on metric development, reporting system design and design and delivery of routine and ad hoc reports.
+Develops approaches to presenting information including presentations and communications. Supports complex project management, improvement initiatives and tactical decisions/plans with limited guidance.
+Benchmarks national best practices and makes recommendations for change as appropriate.
+Works within Talent platforms to analyze data around satisfaction, engagement, SLA’s, capacity, etc.
+Compiles data and provides feedback to HR leaders to help improve processes or metrics.
+What You Will Need
+
+Education:
+High school diploma/GED with 2 years of experience, or Associate's degree, or Bachelor's degree required.
+Bachelor's degree preferred with 2 years of HR experience.
+Work Experience:
+3 years of experience required supporting HR systems and data
+5 years of experience supporting HR systems and data preferred.
+1 year of leadership or management experience preferred.
+Experience using HR Systems such as PeopleSoft, Visier, Talemetry, Talent Neuron strongly preferred.
+Python or R experience strongly preferred.
+Equal Employment Opportunity
+Ascension is an EEO/AA employer: M/F/Disabled/Vet. For further information regarding your EEO rights, click on the following link to the “EEO is the Law” poster:
+http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf”
+Please note that Ascension will make an offer of employment only to individuals who have applied for a position using our official application. Be on alert for possible fraudulent offers of employment. Ascension will not solicit money or banking information from applicants.
+
+E-Verify Statement
+
+Ascension participates in the Electronic Employment Verification Program. Please click the E-Verify link below for more information.
+
+E-Verify (link to E-verify site)
+
+]]>",3.2,"Ascension
+3.2","Saint Louis, MO","Saint Louis, MO",10000+ employees,1999,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1
+"machine learning engineer, Principal, Starbucks Technology",$105K-$173K (Glassdoor est.),"Job Summary and Mission
+This position contributes to Starbucks success by driving advancements to Enterprise Data & Analytics Platform and will support the definition, build out, evangelism and deployment of foundational AI capabilities that are critical to democratizing Machine Learning and AI driven applications across the organization.
+Models and acts in accordance with Starbucks guiding principles.
+
+Summary of Key Responsibilities
+
+Responsibilities and essential job functions include but are not limited to the following:
+Forge partnerships with the Analytics teams across Starbucks as well as Technology teams to clearly understand business domains (domain proficiency) as well as demonstrate technical depth to gain trust and partnership
+Perform Industry Research, develop working prototypes and prove the concepts for key trends in development, deployment and operating Machine Learning / Deep Learning models in production
+Translate strategic analytics requirements into Analytics tools and infrastructure
+Engineering production grade platform solutions that are secure, scalable and supportable.
+Evangelize platform capabilties through strategic partnership, rapid prototyping of usecases.
+Identify, document and promote best practices across the organization
+
+Summary of Experience:
+Software Engineering:
+•Experience in one of the public cloud platforms such as Azure/AWS/GCP and designing Cloud Native solutions.
+•Demonstrated experience in distributed computing systems such as Apache Spark or similar (1 years)
+•Demonstrated experience and expertise in programming using languages such as Python or Scala or equivalent. (5 years)
+•Demonstrated experience in using state of the art DevOps techniques in the context of Machine Learning powered applications.(1 year)
+•Experience in Containerization of applications, Kubernetes and Microservices .(1 year)
+•Exposure to Site Reliability Engineering best practices(1 year)
+•Demonstrated experience in building, deploying and operating ATLEAST ONE ML powered application at Scale in production.(1 year)
+
+Applied Machine Learning:
+•Appreciation of Math concepts such as linear algebra, Bayesian statistics, group theory desirable.
+•Experience or exposure to application of Machine Learning algorithms ( classification, regression, or ranking problems) to real world applications.
+•Experience or exposure to application of deep learning/neural networks and machine learning frameworks like Tensorflow or Keras or equivalent to real world problems.
+
+General:
+•Proven track record of being part of successful agile teams, collaborating with Engineers, Data Engineers, Data Scientists and business stake holders and delivering engineering outcome.
+•Overall experience (5 years)
+•Experience working in Retail domain desirable.
+
+Basic Qualifications:
+•MS / BS with concentration in quantitative discipline - Stats, Math, Comp Sci, Engineering, Econ, Quantitative Social Science or similar discipline .
+Required Knowledge, Skills, and Abilities
+•Technical proficiency to deal with complex problems that have now evolved from ideation and consulting
+•Ability to apply knowledge of multidisciplinary business principles and practices to achieve successful outcomes in cross-functional projects and activities
+•Security proficiency to design and implement complex compliance controls
+•Ability to take Input from industry trends to help shape platform needs by demonstrating application and platform expertise
+•Ability to apply knowledge of multidisciplinary business principles and practices to achieve successful outcomes in cross-functional projects and activities
+•Technical skills
+Practical working skills in leading Machine Learning / Deep Learning Frameworks like TensorFlow, Keras
+Practical skills in querying and processing Big Data using Apache Spark, SQL.
+Expert Programming skills in Python or Scale or equivalent
+Expert DevOps skills using platform like Jenkins, Azure Dev Ops or equivalent
+Expert skills in Kubernetes , Containers and Micro Services deployment
+
+Starbucks and its brands are an equal opportunity employer of all qualified individuals.
+
+We are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences. We believe that enables us to better meet our mission and values while serving customers throughout our global communities. People of color, women, LGBTQIA , veterans and persons with disabilities are encouraged to apply.
+
+Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances. Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at 206-318-0660 or via email at applicantaccommodation@starbucks.com",3.8,"Starbucks
+3.8","Seattle, WA","Seattle, WA",10000+ employees,1971,Company - Public,Fast-Food & Quick-Service Restaurants,"Restaurants, Bars & Food Services",$10+ billion (USD),"Dunkin' Brands, McDonald's"
+Data Scientist,$99K-$136K (Glassdoor est.),"The Opportunity
+
+Eversight is the recognized leader in AI-powered price and promotions. Eversight's proprietary cloud-based SaaS solution brings AI and continuous experimentation to consumer brands and retailers. Our software acts as a coach, enabling market leaders to transform pricing and promotion strategy for the $3.4 trillion spent in consumer goods retail using intelligent, real-time data and insights.
+
+Reporting directly to the Head of Data Science, you will be at the center of what determines Eversight's success as a company. You will analyze the data and develop production code using the newest Data Science and Machine Learning techniques to determine the optimal prices and promotions for major product manufacturers and retailers that sell these products.
+
+Responsibilities
+Research, implement and modify modern Data Science techniques. More specifically:
+Build Statistical and Machine Learning models that describe the impact of prices and promotions on shopper behavior, including behavioral pricing effects. You'll need to find middle ground between using flexible modern AI methods and proven classical methods.
+Develop Optimization and Experiment Design systems, which determine the best prices to set for each product in each store each week. Finding a good balance on the exploration-exploitation tradeoff will be crucial.
+Design and run pricing experiments across hundreds of stores and tens of thousands of products
+Create model validation methods to make sure that our models are accurate and to quantify the impact of our solutions on the clients' bottom line
+Work with Product Management to generate ideas and quickly turn them into efficient, well-tested, functioning code (we mostly use Python)
+Partner with the Engineering team to create highly scalable solutions
+Serve as Data Science expert both within Eversight and for our clients
+Lead custom analyses and connect them to actionable Business and Product insights
+Help prioritize new feature development by assessing potential impact
+Be a go-to resource for science-related questions about the product
+Behavioral Profile
+Analytical, framework thinker
+Comfortable in a fast-paced environment
+Highly collaborative
+Strong at translating Data Science concepts to non-technical audiences
+Business focused; measures work in its contributions to business outcomes and prioritizes effort against deliverables accordingly
+Skills and Experience
+M.S. in Operations Research, Machine Learning, Statistics, Mathematics, Engineering, Economics, Computer Science or relevant quantitative field
+2+ years of experience in Data Science or Machine Learning. Ph.D. experience accepted
+Elite ability in : Linear Algebra, Hypothesis Testing, Bayesian Methods, Regressions, Calculus, Maximum Likelihood Estimation
+Experience in Machine Learning methods: Neural Networks (Deep Learning, Embeddings, Sequence Modeling, CNN), Tree-based methods (GBDT, Random Forest), Regressions (Linear, GLM), Regularization Methods (L1/L2 penalties, Feature Selection, Dimensionality Reduction)
+Experience in A/B testing and Design of Experiments preferred
+Demand Modeling, Pricing, and Causal Inference experience preferred but optional
+Knowledge of common data structures and ability to write efficient code in Python
+Agile experience preferred
+Location
+
+Palo Alto, CA
+
+About the Company
+
+Eversight is the recognized leader in AI-powered pricing and promotions. Global brands and retailers rely on the Eversight platform to optimize pricing in response to market conditions and to deliver higher ROI on promotional spend. Eversight's Pricing Suite and Offer Innovation Suite solutions are driving strong margin and sales volume improvements for leading companies such as Coca-Cola, Frito-Lay, and Raley's. Founded in 2013, Eversight is headquartered in Palo Alto, California, with offices in Chicago and New York.",4.2,"Eversight
+4.2","Palo Alto, CA","Palo Alto, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),-1
+Data Engineer,$80K-$150K (Glassdoor est.),"Company Description
+Sagence is a management advisory firm dedicated to helping our clients optimize the value of their data assets. From thinking to doing, Sagence works with leading institutions in the acquisition, evaluation, development and management of their critical data assets and in the application of analytics to discover new insights, shorten time-to-value, and drive competitive advantage.
+**All candidates must be currently authorized to work in the US on a full-time basis. Sagence does not provide sponsorship for work visas upon hire or once on board.**
+Job Overview
+Sagence is looking for experienced, client-facing Data Engineers to help us build and sustain our client’s data capabilities and our competitive advantage. Along with the requirements below, candidates must possess deep, practical experience in one or more of the following Data Management competencies; data warehousing, data lakes, reference data or master data management, data architecture, data modeling, data governance, data analysis, business intelligence.
+Skills & Requirements:
+MUST BE HANDS ON. Candidates should have system development experience and proficiency with system development methodologies and possess the following skills and knowledge:
+Must have significant hands-on experience with various IT concepts of data management/engineering (ETL, data modeling, data warehousing, etc.)
+Must have significant hands-on experience with SQL, data profiling, and data discovery
+Experience building business intelligence, analytics, or reporting solutions - either front-end consumption mechanisms (e.g., Microsoft, Tableau & Qlik) or supply of data for these purposes
+Familiarity with data architecture principles/approaches, data environment infrastructure considerations, and data modeling principles/approaches
+Ability to drive out technical requirements with business and IT stakeholders for implementations of data solutions
+Hands-on experience with Agile delivery methodology
+Prior professional experience in an IT management, management consulting, or client facing role is preferred
+Knowledge of the Financial Services, Insurance, Healthcare or Retail industries is preferred
+Demonstrated ability in engaging, communicating, and presenting to stakeholders across both business and technology functions
+Tools and Technology:
+Proficient at leveraging tools and technology to drive value for clients. Examples include the following;
+Database Management Tools:
+Relational – e.g. Oracle, MySQL, Microsoft SQL Server, PostgreSQL, DB, or similar
+NoSQL – e.g. MongoDB, Couchbase, DataStax, Redix, MarkLogic, or similar
+Cloud – e.g. AWS, Azure, xxx, xxx, xxx
+ETL Tools - e.g. Informatica, Talend, Microsoft SSIS, or similar
+Data Modeling tools - e.g., Toad, ERWin, ER/Studio, PowerDesigner, IBM Data Architect, or similar
+Industry Leading BI tools - e.g., Business Objects, Microsoft, Cognos, Tableau, OBIEE, Qlickview, or similar
+General:
+Must be currently authorized to work in the US on a full-time basis. Sagence does not provide sponsorship for work visas
+3+ years of professional experience working in a related role
+Must be collaborative, innovative, curious, and resourceful, and exhibit a positive attitude
+Strong desire to work on interesting projects with smart and creative people
+Willingness to travel up to 80% of the week (M-Th)
+Chicago or New York area candidates preferred, but will consider candidates in other parts of U.S.
+Our Culture
+Passionate, diverse, creative, genuine, flexible, hands-on…these are just a few of the words that describe our culture. Our Partners are deeply involved in the client work on a daily basis. We have a high-energy workplace with a focus on producing high-quality, impactful results. We are committed to equality of opportunity, fairness, work and lifestyle balance, and mutual respect. We promote an entrepreneurial spirit by encouraging individual initiative and foster a collaborative culture and work environment which includes open communication and on-going learning. We build teamwork through small, dedicated teams who continuously teach each other and learn from one another. We strongly believe these characteristics enable our employees to develop to their fullest potential. To learn more, please visit us at www.sagenceconsulting.com",4.5,"Sagence
+4.5","Chicago, IL","Chicago, IL",1 to 50 employees,2009,Company - Private,Consulting,Business Services,$10 to $25 million (USD),"Clarity Insights, WCI Consulting, PwC"
+Data Scientist,$216K-$234K (Glassdoor est.),"Secure our Nation, Ignite your Future
+
+Summary
+
+The successful candidate will possess a diverse range of data-focused skills and experience, both technical and analytical. They will have a strong desire and capability for problem solving, data analysis and troubleshooting, analytical thinking, and experimentation.
+
+Duties, Tasks & Responsibilities
+Working with large, complex, and disparate data sets
+Designing and implementing innovative ways to analyze and exploit the Sponsors data holdings
+Researching and reporting on a wide variety of Sponsor inquiries
+Raising proactive inquiries to the Sponsor based on observations and proposed data analysis/exploitation
+Solving difficult, non-routine problems by applying advanced analytical methodologies, and improving analytic methodologies
+Developing custom searches
+Communicating and coordinating with internal and external partners as needed
+Required Experience, Skills, & Technologies
+Thorough knowledge of appropriate analytic tools and methodologies in one or more of the following:
+Applied mathematics (e.g. probability and statistics, formal modeling, computational social sciences)
+Computer programming (e.g. programming languages, math/statistics packages, computer science, machine learning, scientific computing)
+Ability to code or script in one or more general programming language
+Experience with and theoretical understanding of algorithms for classification, regression, clustering, and anomaly detection
+Knowledge of relational databases, including SQL and large-scale distributed systems (e.g. Hadoop)
+Expertise with statistical data analysis (e.g. linear models, multivariate analysis, stochastic models, sampling methods)
+Demonstrated effectiveness in collecting information and accurately representing/visualizing it to non-technical third parties
+TS/SCI with Polygraph
+Desired Experience, Skills & Technologies
+Previous investigative experience, using a combination of technical and analytic skills
+#LI-SS2
+
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.",4.0,"ManTech
+4.0","Chantilly, VA","Herndon, VA",5001 to 10000 employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),-1
+Data Analyst,$35K-$64K (Glassdoor est.),"TheData Analyst will work as part of Acquisitions team under the direction of the Data Architect and Manager of the Acquisitions and Conversions team. The position relies on good judgment, experience, and guidance to perform analytical and technical functions to analyze and interpret data in support of acquisitions and large-scale system conversions. The role requires a broad degree of knowledge and problem solving skills.
+
+The position will provide support to the Acquisitions and Conversion teams by analyzing and interpreting the data from acquired systems and internal systems. The candidate will serve as a data developer resource, should have knowledge of data analysis tools, data profiling techniques and computer systems technology. This position will work closely with the Data Architect to develop technical requirements and comprehensive solutions to extract data from multiple source systems or models, transform data according to Business Rules and Master Data Management, work with the Acquisitions team to assure attributes are properly governed and also loaded into operational and presentation models.
+
+The ideal candidate will have experience collecting user requirements, data analysis, documenting technical specifications, understand core data characteristics, and have experience working work with life insurance and annuity data. This role is expected to support and expand a culture of operational excellence. The ability to understand complex problems, logical problem solving skills, and strong written and verbal communication skills are required. Additionally, a strong understanding of database methodology, data analysis, and reporting technologies are required.
+
+Responsibilities:
+Map data source attributes to target system attributes
+Support all Master Data Management (MDM) and Operational Reference Data Management (RDM) processes
+Build reports using SSRS, PowerBI or other technologies
+Research data requests to determine availability, sourcing and fulfillment options
+Build and Maintain SSIS Packages
+Perform root cause analysis on data quality issues
+Identify data anomalies and work with data stewards in other units to develop policies and best practices
+Monitor the state of data quality within their scope of responsibility
+Write SQL Statements, Stored Procedures, database functions and other queries.
+Identify the best approaches for resolving data quality issues
+Schedule and maintain nightly jobs using Control-M
+Work directly with Architect, Line of Business Data Stewards, and Business Analysts on data requirements and Quality Assurance
+Work independently under the direction of the Data Architect
+Qualifications:
+Bachelor’s degree or equivalent certifications / experience required
+Experience with Microsoft SQL Server required
+2+ years experience with Microsoft Business Intelligence stack (SSIS, SSAS, SSRS, SQL Server) a plus
+2+ years IT analysis experience required
+Experience working on a project team using Waterfall or Agile methodology a plus
+Experience in relational and dimensional data modeling required
+Experience in the Insurance industry and/or LOMA coursework; FLMI certification a plus
+Experience and understanding of Software Development Life Cycle (SDLC)
+Ability to work independently
+Advanced knowledge of structured data, such as entities, classes, hierarchies, relationships and metadata
+Knowledge of database management system (DBMS) including tables, joins and SQL querying
+Ability to combine data from multiple sources when needed for analysis
+Familiarity with and ability to document the use cases, business purposes and quality of the data
+Familiar with reporting technology and methods of reporting different types of data
+Understanding of data quality concepts, best practices and tools
+Communication skills to help communicate complex data and concepts to business analysts and team members",3.4,"Protective Life
+3.4","Birmingham, AL","Birmingham, AL",1001 to 5000 employees,1907,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),"Prudential, Brighthouse Financial, Lincoln"
+Healthcare Data Analyst,$56K-$75K (Glassdoor est.),"Xtend Healthcare, established in 2009, is seeking professionals to fulfill a specific need at one of our key clients of EY (Ernst & Young) within its Indianapolis healthcare advisory practice. These full-time positions offer a competitive salary and an attractive benefits package. The positions are long-term with no scheduled end date. Many current Xtend Healthcare employees have been contracted in similar roles at EY for multiple years -- some well over a decade.
+
+EY is a globally recognized professional services firm and its Indianapolis healthcare advisory practice serves a variety of healthcare clients nationally. EY is looking to expand its existing team of Xtend Healthcare data analysts. Xtend Healthcare employees who act in these contracted roles have data analytics, informatics or business backgrounds. Some individuals do occasionally travel for work, but travel is not required by all. Candidates are expected to work daily in EY's downtown Indianapolis, Indiana office location.
+
+EY offers our team members a highly inclusive, flexible work environment. Benefits also include the opportunity to develop and build upon deep technical skills, healthcare industry knowledge, and consulting skills through on-the-job training. The services provided include assisting their clients in complying with Medicare, Medicaid and other regulatory requirements, in addition to helping them receive the appropriate amount of reimbursement from these programs.
+
+We are seeking qualified candidates for ourHealthcare Data Analystposition. This position will work with our client's proprietary tools to analyze large volumes of hospital data. The candidates must employ various technical data manipulation techniques to analyze large complex data sets, identify data patterns, data mine, etc. Through training, candidates must learn and apply relevant regulations to compile data sets. Candidates must be able to communicate results of the analysis to project managers.
+
+JOB SUMMARY:
+
+1. Analyze large volumes of hospital data.
+
+2. Employ various techniques to analyze large complex data sets:
+Data manipulation
+Data mining
+Identifying data patterns
+3. Learn and apply relevant regulations to compile data sets.
+
+4. Communicate results of analysis succinctly to project managers.
+
+MINIMUM REQUIREMENTS:
+Bachelor's Degree in Business, Informatics, Data Analytics, Finance, Accounting, or a related field.
+2+ years experience in Business, Informatics, Data Analytics, Finance, Accounting, or a related field.
+Intermediate level proficiency with Microsoft Excel required, with Microsoft Access, SQL or other database software experience recommended.
+Successful reference check, background check and drug screening (required).
+PREFERRED QUALIFICATIONS:
+Experience with Medicare or Medicaid reimbursement, including cost reports, Medicare DSH and/or Medicare bad debts, is a significant advantage.
+Intermediate level proficiency with Microsoft Excel (required) with Microsoft Access, SQL or other database software experience (recommended).
+Acute attention to detail and strong analytical skills (required).
+Strong written and verbal communication skills.
+Ability to employ critical thinking skills and work independently while also working well within a team environment.
+Receptiveness to differing views and ideas with the ability to apply industry-specific concepts.
+Highly adaptable to changing circumstances and/or directives in day-to-day priorities.
+Ability to perform well on frequent repetitive tasks while continually improving skills and competencies.
+Willingness to travel occasionally (plus).
+All offers of employment are contingent on standard background checks. Navient and certain of its affiliated companies are federal, state and/or local government contractors. Should this position support a Federal Government contract, now or in the future, the successful candidate will be subject to a background check conducted by the U.S. Government to determine eligibility and suitability for federal contract employment for public trust or sensitive positions. Positions that support state and/or local contracts also may require additional background checks to determine eligibility and suitability.
+
+EOE Race/Ethnicity/Sex/Disability/Protected Vet/Sexual Orientation/Gender Identity. Navient Corporation and its subsidiaries are not sponsored by or agencies of the United States of America.
+
+Navient is a drug free workplace.",3.4,"Navient
+3.4","Indianapolis, IN","Wilmington, DE",5001 to 10000 employees,2014,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),-1
+Data Engineer,$101K-$177K (Glassdoor est.),"On April 1, 2020, Rubicon Project and Telaria, Inc. merged to create one company. The combined company will rebrand as one in the coming months. In the interim, each company will operate under its existing brand name. The ticker symbol for the combined public entity will remain NYSE: RUBI.
+
+We are looking for Data Engineers to help us build tools, enhance our platform, and leverage our vast amounts of advertising data to make informed decisions around business optimizations and efficiencies. We're close to the customers and have the reward of seeing our work being used immediately. We take pride in the reliability and scalability of our platform, as well as our pace of implementation. We are a small and efficient team building out a solution in a new space with lots of green field ahead of it.
+
+Why You'll Be Excited
+Having a large stake and impact on the product and business direction and bottom-line
+Collaborating with innovative and goal-focused engineering and business teams
+Working with data scientists, data analysts, and product managers to identify and use the data that is most relevant to the problem at hand
+Building systems that can effectively stream, store, and crunch vast amounts of data to help inform customers and power business analytics
+Solving complex problems revolving around real-time strategic decision-making and large data systems
+Developing, deploying, and maintaining robust and high-performance systems and features
+Why We'll Be Excited About You
+You have strong verbal and written communication skills that help you express your work in meaningful ways to cross functional teams
+You are passionate about learning different technologies, exploring engineering challenges, and working in a dynamic and collaborative environment
+You have working experience and skills designing and coding in Java/Scala and/or Python
+You are proficient in writing efficient and well-structured SQL queries and have experience with database schemas and design
+You have experience with big data technologies (Spark, Presto, Druid, etc.)
+You have knowledge of UNIX/Linux and scripting with Perl, Shell, etc.
+Degree in Computer Science or a related field
+Bonus: Experience working in a data science / machine learning environment
+Bonus: Experience working with AWS Services (Redshift, Kinesis, Glue, etc.)
+Why We (and You'll) Love It Here
+We are a technology and data-driven business
+We embrace analytical thinking, kind, and results driven people
+We have a plethora of challenging and interesting problems to solve
+We help and support each other in creating a productive work/life balance
+Perks and Benefits:
+
+At Telaria we place an emphasis and importance on ensuring our total rewards are competitive, aligned with industry and to help you create a productive work/life balance. Benefits are highly subsidized and include medical, company paid dental, vision, employer contributed Health Savings Account, 401k matching, corporate gym discounts, pre-tax health and commuter savings, life insurance, 5 and 10-year Sabbatical programs, Discretionary Time Off (a.k.a. open vacation policy!), Paid Parental Leave, an Employee Referral Program, Employee Stock Purchase Plan (ESPP), and much more! All this is within a collaborative work environment you can personalize and topped with engaging programs like Micro-Mentorship, and Team Sports.
+
+Telaria values diversity and is proud to be an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",4.4,"Telaria
+4.4","Mountain View, CA","New York, NY",51 to 200 employees,2017,Company - Public,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"SpotX, FreeWheel, TubeMogul"
+Data Engineer,-1,"Since 2001, Hygiena has been on a mission to be the global leader in rapid industrial diagnostic testing. Our world-class team of innovators, leaders, creators and problems solvers has helped Hygiena become the breakaway leader in the markets we serve. In our growing global business, there is always opportunity for talented and passionate individuals to grow with Hygiena.
+
+We are currently recruiting for a Data Engineer to join our team!
+
+In this role you will primarily design, implement, and manage an analytical data infrastructure and work closely with other engineers and scientists to create robust and scalable solutions to flow data from various source systems into the data warehouse and end-user facing applications.
+
+Responsibilities:
+•Maintain algorithms and build data pipelines including support for new instrument hardware and software.
+•Test algorithms for ELT annotated and non-annotated reference data.
+•Benchmark algorithm performances and researches and implements new technologies and/or practices to provide efficient process improvements.
+•Design data schema and operate internal data warehouse.
+•Work directly with other engineers and data scientists to flow data from various source systems into the data warehouse.
+•Monitor and troubleshoot operational or data issues in data pipelines for BAX and Ensure Touch Product lines.
+
+Qualifications:
+•Bachelor’s Degree in Computer Science, Engineering, Statistics or related field required.
+•Experience with Statistical modeling, Machine Learning, Data Science or Data Engineering.
+•4 or more years in Business Intelligence or Business Analytics.
+•Experience with scripting languages such as;
+oMATLAB
+oPython
+•Experience with C++/C# and Windows dll packaging.
+•Experience with writing SQL queries and ETL.
+•Experience working on a SCRUM/Kanban team in a CI/CD environment and ETL Skills
+•Experience with columnar databases and familiarity with statistical modeling and machine learning techniques.
+
+Skills:
+•Excellent verbal and written communication.
+•Excellent analytical and quantitative skills.
+•Ability to handle high call volume.
+•Excellent attendance and punctuality.
+•Must be able to use discretion and independent judgement.
+•Must be able to work in a team environment.
+•Must be able to pay close attention to details.
+•Must be able to adapt and flex to a changing environment.
+
+Working Conditions:
+•Is required to work normal office hours, Monday through Friday in the Camarillo, CA headquarters.
+•May occasionally work evenings and/or weekends.
+•May occasionally be required to travel.
+
+Why you’ll want to join our team.
+Teamwork as a core value.
+At Hygiena, our emphasis on teamwork and cross-functional communication enables us to build stronger bonds within our business.
+
+Be a part of something big.
+Hygiena plays a critical role in helping to prevent global health crisis such as foodborne illness, healthcare-associated infections, and other outbreaks.
+
+Giving back to our communities.
+Hygiena believes in giving back by supporting local organizations committed to improving the lives of children and youth in our communities.
+
+Apply Now",4.0,"Hygiena
+4.0","Camarillo, CA","Camarillo, CA",201 to 500 employees,-1,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),"Ecolab, Eurofin Private Investment Office"
+Data Analyst,-1,"Company Description
+
+Founded in Silicon Valley, scaling in Gainesville, FL.
+
+We are a profitable, bootstrapped tech startup offering competitive salary + equity packages to top candidates. Our office is in the Innovation Hub in Downtown Gainesville. Our first cofounders met as early hires at the successful fintech startup, Square.
+
+Bridgerock Data is a Data Science first technology company focused on direct to consumer brands (DTC). This ecommerce market is growing fast. Few people know that at $61bn per year, the ecommerce platform, Shopify, sells more online than Walmart, and may soon pass the entire chain.
+
+Shopify, and its competitors, enable creative retail startups to flourish. The most successful of these all hit a major growth painpoint: Brands must advertise to grow, but marketers fear wasting money on ads.
+
+Bridgerock uses Data Science to show which ads are wasting money. We are not an AdTech agency. We audit the AdTech agencies. We solve important, practical, challenging problems. We focus on accuracy. Cutting low impact marketing spend is a big advantage to our clients.
+
+We are taking applications for several technical positions. If you are interested in what we do, or know our stack, please apply online or submit your resume and cover letter to people@bridgerockdata.com.
+
+Technologies we use
+Javascript, HTML, CSS, Jinja
+Postgres, Redshift
+Python, Django
+Roles Considered
+Engineering Lead
+Software Engineer
+Software Engineering Intern
+Full, Front, Back End Developer
+Data Analyst
+Data Scientist
+Job Description/Requirements
+
+Data Analyst or Data Scientist
+
+Write data routines primarily in SQL (Postgres and Redshift), sometimes in Python.
+
+Build key data sets to empower operational and exploratory analysis.
+
+Monitor key client metrics; understand root causes of changes in metrics.
+
+Build and analyze dashboards and reports.
+
+Evaluate and define metrics.
+
+Automate analyses and author pipelines via SQL and python based ETL framework.
+
+Partner cross functionally to identify opportunities for tools improvement.
+
+Full Stack Developer or Software Engineer
+
+Write Python in our Django framework
+
+Automate analyses and author pipelines via SQL and python based ETL framework.
+
+Partner cross functionally to identify opportunities for tools improvement.
+
+Build, scale, and maintain data warehouse infrastructure
+
+Rapidly prototype front end app
+
+At bridgerock, we value applicants with
+Excellent stakeholder management and communication skills while working with technical and non-technical audiences
+High standards for code quality, testing and performance
+Can-do attitude, fast learner, and great interpersonal skills
+Very strong attention to detail
+A desire to continue learning
+A personal commitment to quality
+Additional Information
+
+At Bridgerock Data, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",-1,Bridgerock Data,"Gainesville, FL","Gainesville, FL",1 to 50 employees,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1
+Data Scientist,-1,"JOB CATEGORY:
+
+Information Services
+
+REQUISITION NUMBER:
+
+351281
+
+ds
+
+A BIT ABOUT OUR DATA SCIENCE & ANALYTICS TEAM
+
+Kinship’s Data Science & Analytics team is core to our strategy. We’re using digital, data and customer insights to transform our business by finding answers to problems that we’ve often never asked ourselves before. Our vast data assets are being combined to build a 360° view of Pets and Pet Owners to not only power Kinship’s businesses but also influence the next great ideas in the Petcare space. This role will be key in helping us understand the power of our data, and how this translates into value for our company, Pets, and Pet Owners. Frequently the projects will be ambiguous, but that’s part of the fun; you will determine the best way to leverage our data to tell the right story for any given audience.
+
+HOW YOU’LL CREATE A BETTER WORLD FOR PETS
+Apply data science approaches to understand and predict pet and pet owner behaviors
+Use machine learning techniques, visualizations, & statistical analysis to gain insight into various data sets – some readily available, and some you create and curate yourself
+Collaborate with internal and external teams to ensure we focus on pet-centric product and service recommendations
+Support new pet technology businesses and partners by generating actionable insights from our data assets
+Develop compelling stories that provide insight into the drivers of business performance and Pet/Pet Owner behavior
+WHO WE NEED TO CHART THE FUTURE OF PET CARE
+
+We strive to hire people who are:
+
+Optimistic. Those who’s boundlessly energy and enthusiasm for what’s next shines through in everything they do. We seek to work with people who are intrinsically happy, and who will drive our vision and purpose while managing the complexities of our businesses.
+
+Purposefully Inquisitive. Those who are courageous and use their deep business insights to cultivate innovation. We want the trailblazers in tech. Those who are entrepreneurs at heart, ask the tough questions, adapt quickly to new situations, and analyze data in new ways to push our big ideas forward.
+
+Open to All. Those who are inclusive leaders, committed to learning, and leveraging our differences as strengths. We hire people who are naturally collaborative and thrive in a flat and flexible organization. Those who are thoughtful communicators, and seek to foster meaningful relationships across our community of diverse partners.
+
+And for this role, we hope you have the following skills we require to round out our team:
+Exceptional written & verbal communication, coupled with critical thinking skills.
+Truly inspired by, and want to live, our purpose of creating a better world for pets.
+1+ years’ experience in a data science role handling varied and complex data
+Proficiency in machine learning modeling and statistical thinking (random forest, decision trees, supervised and unsupervised modeling, etc.)
+Hands-on experience with Python is required; Familiarity with PySpark is also desirable
+Comfortable with ambiguity, with a passion for collaboration to achieve objectives
+A Bachelor’s degree in quantitative field (economics, statistics, business, computer science) or equivalent experience
+If you also had these experiences, you’d knock it out of the dog park:
+Passion for growing and strengthening a business using data driven approaches
+Familiarity with cloud-based computing services e.g. AWS, Databricks, etc.
+Enjoys explaining how models and systems work to both non-technical and technical stakeholders.
+.
+
+Nearest Major Market: Portland Oregon
+Job Segment:
+Database, Scientific, Computer Science, Cloud, Statistics, Technology, Engineering, Data
+
+Apply now »",3.9,"Mars
+3.9",Oregon,"Mc Lean, VA",10000+ employees,1911,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),-1
+Data Platforms Administrator,-1,"As a Platform Administrator on the Distributed Data Services team at CH Robinson, you will leverage your experience and passion for technology to oversee the daily execution of processes, operations, and support activities within the wide realm of distributed data services, NOSQL technologies, data science tooling, and data streaming platforms. This team is responsible for deploying and managing platforms and tools to support our distributed data, data science, and data streaming strategies. They’re currently with platforms including: Kafka, ElasticSearch, MongoDB, Redis, InfluxDB, Hadoop/Spark, JupyterHub, HBase, and Hive. The team takes an infrastructure-as-code approach to these technologies, and strives to automate wherever, and whenever possible. We aim to take these technologies to a “Platform as a Service” level wherever possible.
+
+The Distributed Data Services practice is transforming the way that data is delivered and stored within C.H. Robinson. We are looking for a creative individual that is passionate about automation, data, and Infrastructure (and capable on all three fronts). As a team, we strive to automate, to innovate, to optimize, and to deliver a great platform experience on every front.
+
+Responsibilities:
+Facilitate the continuous re-engineering of fluid data platforms and pipelines
+Support End-to-End Data Science Lifecycle ecosystem (Tools, Applications, Deployments)
+Ensure 24x7 availability of distributed data platforms
+Custom development and automation around the provisioning and operations of platforms
+Promote proper and efficient use of platforms
+Partner with AppDev, Data Science, and Infrastructure teams on evaluation and feasibility assessment of new platforms and technologies
+Oversee and ensure production readiness of new technologies/platforms
+Maintain documentation on processes and procedures
+On-Call duty as required
+Required Qualifications:
+
+2+ years of Enterprise experience building and maintaining highly-available production systems
+Knowledge of at least one of the following, with the desire and aptitude to learn more: Bash, Python, Powershell, Ansible, Golang, SQL
+Knowledge and experience with at least one of the following, with a desire and aptitude to learn all: Kafka, ElasticSearch, MongoDB, Redis, InfluxDB, Hadoop/Spark, Hive, HBase
+Must be proficient with Linux
+Must be familiar with containerization
+Familiarity with microservice architecture and Restful API’s
+Basic knowledge of SQL
+Understanding of the principles of continuous integration and continuous deployment
+High School diploma or GED
+Preferred Qualifications:
+
+Bachelor’s degree in Computer Science or related field
+Experience/familiarity with container orchestration platforms a plus (i.e. Mesosphere, Kubernetes, Swarn)
+Comfortable with Agile methodologies
+Excellent facilitation and communication skills
+Positive, collaborative attitude
+Proactive, accountable, autonomous, and solutions oriented
+Benefits
+We are proud to offer a top-tier benefits package, including medical, dental, vision, life and disability insurance, prescription drug coverage, paid parental leave, paid holidays and paid time off (PTO), 401K with company match, employee stock purchase plan, as well as a broad range of career development opportunities.
+
+Affirmative Action Employer/EOE/M/F/Disabled/Veteran",3.3,"C.H. Robinson
+3.3","Eden Prairie, MN","Eden Prairie, MN",10000+ employees,1905,Company - Public,Logistics & Supply Chain,Transportation & Logistics,$10+ billion (USD),-1
+"Data Scientist, Office of Data Science",$91K-$132K (Glassdoor est.),"Help shape the future of Data Science across Liberty!
+
+As a technical member of the Office of Data Science (ODS), Enablement & Collaboration unit, you will work with a team of data science (DS) and machine learning (ML) experts to solve Liberty's most challenging data science problems.
+
+The ODS was created to provide additional centralized support and expertise to DS teams across the global organization. Our projects focus on key areas of interest to multiple teams, bleeding edge research and experimentation, common tool development, and establishing best practices to ensure the scientific community at Liberty is well-positioned to rapidly meet the challenges of modern industry.
+
+If you are interested in making an impact on an entire culture at a Fortune 100 company, the ODS is the place for you!
+
+As a centralized group, our project scope is vast. Possible projects include:
+Design new language models (NLP/NLU) to understand and build predictions or summaries from customer calls, claim notes, web chats, medical records, and beyond.
+Detect property hazards from aerial imagery, customer photos, geospatial data, etc. using computer vision (CV).
+Explore the advantages and limitations of privacy-preserving ML, to accelerate experimentation and better protect our customers' data.
+Push the boundaries in fundamental experimentation to boost and augment small-sample or rare-event data, transfer learning, and similar techniques.
+Engage in theoretical research in collaboration with MIT, via Liberty's investment in the MIT Quest for Intelligence, to shape the future of AI
+
+Responsibilities:
+Work on cross-functional R&D teams, including ODS and business-unit data scientists/analysts, doing hands on ML research in areas such as computer vision, natural language processing, interpretable ML, and privacy preserving ML.
+Accelerate the deployment of reproducible ML models by helping the business set and apply current best practices, including the use of open source software, container-based or serverless cloud platforms, and self-service operating models.
+Develop common DS/ML tools and infrastructure across the business.
+Set the standards for statistical testing and experimental design, as well as other quality standards such as testing coverage, code review, etc. for data science
+Work with product owners and business units across Liberty to identify new opportunities where the ODS can accelerate research and development of DS and ML tools and techniques
+The actual internal level/grade for this role will depend on the candidate's overall experience and skill level.
+Qualifications:
+Bachelor's degree in Statistics, Economics, Computer Science, or any quantitative discipline with relevant work experience, required; advanced degree a definite plus.
+Extensive experience analyzing data and a broad understanding of core statistical and ML techniques.
+Demonstrated experience in deep learning, computer vision, natural language processing, and/or interpretable machine learning.
+Demonstrated proficiency in R or Python required.
+Possess strong analytical, strategic, project management, decision-making and problem-solving skills.
+Demonstrated ability to perform high quality work both independently and collaboratively.
+Benefits:
+We value your hard work, integrity and commitment to positive change. In return for your service, it's our privilege to offer you benefits and rewards that support your life and well-being. To learn more about our benefit offerings please visit: https://LMI.co/Benefits
+Overview:
+At Liberty Mutual, we give motivated, accomplished professionals the opportunity to help us redefine what insurance means; to work for a global leader with a deep sense of humanity and a focus on improving and protecting everyday lives. We create an inspired, collaborative environment, where people can take ownership of their work; push breakthrough ideas; and feel confident that their contributions will be valued and their growth championed.
+We're dedicated to doing the right thing for our employees, because we know that their fulfillment and success leads us to great places. Life. Happiness. Innovation. Impact. Advancement. Whatever their pursuit, talented people find their path at Liberty Mutual.",3.3,"Liberty Mutual Insurance
+3.3","Boston, MA","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm"
+Data Scientist,$38K-$59K (Glassdoor est.),"About Us
+
+Founded in Syracuse in 1992, we are a critical response center focused on saving lives and protecting homes and businesses. Whether its a fire at a family home, an armed intruder at a business, a missing vehicle, an evening jogger, or a lone family member having a medical emergency, our heroes are there to help every day. Supported by teams of experts in their respective fields, our 600+ highly trained specialists are the 24/7 backbone for thousands of alarm companies across the country.
+
+Role Summary
+
+Rapid Response is seeking a discerning and critical thinking Data Scientist to spearhead our Business Intelligence function. In this role, you will collaborate across the organization, using your experience in data science and business intelligence to analyze existing data to build dashboards, reports, and presentations and enable data-driven decision making across the organization.
+
+Responsibilities
+Collect and consult on the best ways to warehouse the myriad datasets across the organization using SQL and other databases
+Translate business requirements to technical requirements
+Champion and lead the development of cross-organizational dashboards
+Educate executives and leadership on model outputs to improve their understanding of data science and apply the results to business decisions
+Lead multiple projects and serve as project manager to identify issues, priorities, and goals
+Navigate ambiguity; identify and tackle strategic opportunities and problems we have not fully defined through data
+Apply a range of data science techniques and tools to solve difficult business problems
+Basic Qualifications
+3+ years of work experience applying varied data science methodologies
+3+ years of work experience with data mining and advanced analytics and/or statistics
+2+ years of project experience using Python and/or R
+Masters Degree in Data Science, Math, or Analytics
+Expert level SQL Structured Query Language
+Proficiency with Microsoft SQL Server
+Research, in-depth analysis and reporting skills
+Preferred Qualifications
+3+ years work experience managing data analytics projects
+Ability to distill large datasets into understandable information
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications
+Experience using leading business intelligence tools
+Rapid Response Monitoring Services, Inc. is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information.
+
+Rapid Response Monitoring Services, Inc. is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation, contact us by phone: 833.205.8900 or by email: disabilityaccommodations@rrms.com.
+
+For technical support or questions regarding the Recruiting process, please contact by sending an e-mail jobs@rrms.com. We are a company that participates in e-verify. For more information, see https://www.e-verify.gov/about-e-verify/what-is-e-verify
+
+INDCAMP2",4.7,"Rapid Response Monitoring
+4.7","Syracuse, NY","Syracuse, NY",501 to 1000 employees,1992,Company - Private,Security Services,Business Services,Unknown / Non-Applicable,"COPS Monitoring, National Monitoring Center, Affiliated Monitoring"
+Data Engineer,$92K-$165K (Glassdoor est.),"At Edmunds were driven to make car buying easier. Ever since we began publishing printed car guides in the 60s, the company has been in the business of trust, innovating ways to empower and support car shoppers. When Edmunds launched the car industrys first Internet site in 1994, we established a leadership position online and have never looked back. Now, as one of the most trusted review sites on the Internet, millions of visitors use our research, shopping and buying tools every month to make an easy and informed decision on their next car. For consumers, we bring peace of mind. For dealers, we make tools to help them solve their problems and sell more cars. How do we do it, you ask? The key ingredients are our enthusiastic employees, progressive company culture and cutting-edge technology. Want to join the team? Read on to find out how!
+
+What Youre Applying For:
+
+Edmunds is looking for a data engineer to help us manage the data explosion dilemma! You will be joining a strong, determined and results-oriented Data Engineering team that is transforming Edmunds from IT to Data-driven. You will get hands-on experience solving complex data problems using Big Data frameworks and methodologies. Youll be helping the company make sense of the torrent of data it receives, empowering analytics on existing products as well as providing insights on potential new opportunities for growth.
+
+What Youll Do:
+
+Create and maintain scalable, maintainable and reliable pipelines that process very large quantities of structured and unstructured data.
+
+Unify streaming and batch processing modes into one cohesive framework of processing including monitoring and alerting that fit into a unified and reliable Big Data infrastructure.
+
+Build streaming data pipelines that enable the business to adapt in real-time.
+
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+
+Regularly reviews work with/from peers with a goal of improving personal knowledge of the systems, ensuring that code changes meet business goals and technology best practices.
+
+Regularly interacts and collaborates with personnel across functions (product, technology, analytics, operations) within the assigned team and technology chapter.
+
+Work with stakeholders including the Executive, Product, and Data teams to assist with data-related technical issues and support their data infrastructure needs.
+
+What You Need:
+
+Excellent problem solving, troubleshooting, and communication skills.
+
+Desire to learn new technologies.
+
+Demonstrated ability to design and write maintainable software
+
+Understanding of software engineering best practices, object oriented analysis & design,
+
+and design patterns & algorithms
+
+Experience enhancing and evolving existing systems
+
+Have experience using some of the following software/tools:
+
+Big data tools: Spark, etc.
+
+Relational SQL and NoSQL databases, including Postgres, Databricks Delta
+
+Lake and Hbase.
+
+Data pipeline and workflow management tools: Airflow, oozie, etc.
+
+AWS cloud services: S3, EC2, RDS, Redshift
+
+Stream-processing systems: Spark-Streaming.
+
+Object-oriented/object function scripting languages: Scala, Python, Java, etc.
+
+Working @ Edmunds.com:
+
+Employees think its a pretty great place to work and some pretty impressive publications think it is too: weve been recognized as one of the best places to work by the LA Business Journal, Wall Street Journal, Business Week Magazine and Architectural Record. If youre interested in learning more and joining our mission, wed love to hear from you!
+
+Edmunds will consider for employment qualified candidates with criminal histories in a manner consistent with the requirements of all applicable laws.
+
+*LI-POST",3.6,"Edmunds.com
+3.6","Santa Monica, CA","Santa Monica, CA",501 to 1000 employees,1966,Company - Private,Internet,Information Technology,$100 to $500 million (USD),"TrueCar, Cars.com, Kelley Blue Book"
+Data Scientist,$61K-$99K (Glassdoor est.),"New England Biolabs is seeking a Data Scientist to build, improve and utilize the varied and complex data sources we use to make excellent biological products.
+
+NEB provides a world-class working environment including high quality computational infrastructure, skilled colleagues, and opportunities to exchange knowledge with internal and external scientists.
+
+Primary Responsibilities:
+
+Construct, extend, and maintain scientific software tools used at NEB to study enzymes and their activities. Collaborate with members of the Research, Product Development, Production, and Quality Control groups to identify patterns and trends in quantitative scientific data.
+
+Required Qualifications and Experience:
+Degree in a computational field and meaningful experience working with varied and complex datasets.
+Software development skills (Ruby, Python, R, or others).
+Appreciation for simple, high-quality, maintainable software.
+Enthusiasm for data modeling, storage and visualization.
+Demonstrated oral and written communication skills.
+Strong work ethic, emphasizing both efficiency and quality of work.
+Accessible evidence of software development history (e.g., GitHub).
+Passion for learning.
+Interest in applications of biologically derived tools to address important challenges.
+Preferred Qualifications and Experience:
+Expertise with high volume analysis of data from many sources.
+Experience with virtualization technologies (kubernetes, cvmfs, lxc).
+Experience with infrastructure automation tools (Ansible, Chef, Salt, etc.)
+Modern web development skills (HTML5, Rails, Vue.js, etc.).
+Cluster computing and scientific workflow frameworks (Galaxy, Nextflow, snakemake, CWL, etc.).
+New England Biolabs, Inc. is an Equal Opportunity/Affirmative Action Employer of Minorities, Females, Disabled and Protected Veterans and a participating employer in the Employment Verification (E-Verify) program. More in-depth details of EEO are available here.
+
+If you need an accommodation for any part of the employment process because of a medical condition or disability, please send an email to hr@neb.com or call 978-927-5054 to let us know the nature of your request.",4.7,"New England Biolabs
+4.7","Ipswich, MA","Ipswich, MA",201 to 500 employees,1974,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Thermo Fisher Scientific, Enzymatics, Illumina"
+Data Analyst,-1,"The Programmatic Analytics and Strategy team at Zeta Global provide actionable insights to both external customers and internal teams. For external customers, analysts partner with Sales and Customer Success teams to monitor our optimization platform, design Real-time Brand Optimization surveys, introduce humanly designed segments to boost model exploration and learning, and deliver actionable insight presentations and lead marketing strategy discussions with clients. For internal teams, they provide feedback to our Product and Engineering teams on automation and model features to advance the reliability, reach, and effectiveness of programmatic campaigns.
+
+What you’ll do:
+Own campaign performance and reporting insights while recommending opportunities for optimization.
+Weekly review of performance of models across revenue, performance, and pacing.
+Design and implement tests to evaluate model and feature performance.
+Work with clients to understand key business challenges and design analytic and testing plans to derive actionable intelligence.
+Work with clients and internal teams to create real-time brand optimization studies that align with campaign goals, but also create strong, clear signals that our models can use to optimize campaign delivery and performance.
+Consult with clients regarding development & alignment of marketing programs across on-line channels.
+Determine set-up, including testing methodologies, reporting requirements, and optimization modeling requirements, for ensuring full impact and efficiency of optimization efforts.
+Communicate campaign optimization results to clients to prove value against original business goals.
+Who you are:
+A great communicator who is able to convey complex technical features in simple terms.
+Someone with an aptitude for media and strategy and able to contextually relay concepts to clients.
+Able to multitask and prioritize among several high-profile clients.
+Have a high degree of creativity, self-motivation, and drive.
+Eagerness to work in a startup team environment that will be rapidly changing
+Enthusiastic team player with a penchant for collaboration and knowledge sharing.
+Willingness to do whatever it takes to get the job done.
+Nerdy but loveable.
+Data driven, technical, self-starting and curious.
+What you need:
+2-4 years of working experience in a similar role.
+Extensive experience with SQL and Excel/pivot tables.
+Excellent presentation/visualization/storytelling skills with PowerPoint.
+Excellent diagnostic skills.
+Technical acumen to understand how to design campaigns that optimize the use of our tech platform.
+Professional oral and written communication skills.
+Client facing experience.
+Bachelors degree in Business, Finance, Economics, Statistics, Marketing or equivalent experience.
+Bonus if you have:
+Experience in a digital media/Programmatic analytics role
+Experience puling & putting together audience insights reports
+Experience with VBA/Excel Macros, Tableau, Python, SAS or other data manipulation tools a plus.
+#LI-MC1
+
+About Zeta Global
+Zeta Global is a data-powered marketing technology company with a heritage of innovation and industry leadership. Founded in 2007 by entrepreneur David A. Steinberg and John Sculley, former CEO of Apple Inc and Pepsi-Cola, the Company combines the industry’s 3rd largest proprietary data set (2.4B+ identities) with Artificial Intelligence to unlock consumer intent, personalize experiences and help our clients drive business growth.
+
+Our technology runs on the Zeta Marketing Platform, which powers ‘end to end’ marketing programs for some of the world’s leading brands. With expertise encompassing all digital marketing channels – Email, Display, Social, Search and Mobile – Zeta orchestrates acquisition and engagement programs that deliver results that are scalable, repeatable and sustainable.
+
+Zeta Global is an Equal Opportunity/Affirmative Action employer and does not discriminate on the basis of race, gender, ancestry, color, religion, sex, age, marital status, sexual orientation, gender identity, national origin, medical condition, disability, veterans status, or any other basis protected by law.",3.3,"Zeta Global
+3.3",New York State,"New York, NY",1001 to 5000 employees,2007,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),-1
+Data Engineer,$90K-$112K (Glassdoor est.),"Sonos has mountains of data, but that data is only useful if it is collected, stored and presented accurately. As a Data Engineer, you will be responsible for creating custom data sets, discovering data anomalies, generating test data, and implementing data quality improvements while participating in an Agile environment. This is an exciting, high visibility position in a rapidly expanding team at the forefront of a shift to a data-driven business.Data engineers work on a cross-functional team as equal partners with our PMs, Data Scientists and Data Platform Engineers. The whole team is responsible for designing, developing, testing, delivering, and supporting our IoT data systems. In this role, you will:
+Building large scale batch or stream-processing systems, using solutions such as Apache Spark and AWS Kinesis
+Work with PMs and data scientists to integrate data from multiple data sources
+Work with different data storage techniques such as NoSQL databases, HBase, Cassandra, and Snowflake
+Define, document, and evangelize data instrumentation best practices. Support software team members on designing data instrumentation for new products.* 2+ yrs experience writing software code
+BS/BA in Computer Science, Software Engineering, Data Engineering, Data Science or equivalent
+Proficiency in Python or Java
+Knowledge of Spark, Github, SQL
+Understanding of data structures and big data.
+Working knowledge of AWS cloud architecture and associated technologies
+Passion and ability for solving intractable problems. Superior critical thinking skills.",4.2,"Sonos
+4.2","Seattle, WA","Santa Barbara, CA",1001 to 5000 employees,2002,Company - Public,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),Bose
+Data Scientist,$89K-$109K (Glassdoor est.),"About Us
+
+
+Interested in working for a human-centered technology company that prides itself on using modern tools and technologies? Want to be surrounded by intensely curious and innovative thinkers?
+
+Seeking to solve complex technical challenges by building products that work for people, meet and exceed the needs of businesses, and work elegantly and efficiently?
+
+Modeling ourselves after the 1904 World's Fair, which brought innovation to the region, 1904labs is seeking top technical talent in St. Louis to bring innovation and creativity to our clients.
+
+Our clients consist of Fortune 500 and Global 2000 companies headquartered here in St. Louis. We partner with them on complex projects that range from reimagining and refactoring their existing applications, to helping to envision and build new applications or data streams to operationalize their existing data. Working in a team-based labs model, using our own flavor of #HCDAgile, we strive to work at the cutting edge of technology's capabilities while solving problems for our clients and their users.
+
+The Role
+
+
+As a Data Scientist with 1904labs, you will be working with other data scientists, data engineers, and developers to provide analytical services to clients. You will leverage the clients' data assets to answer business questions using best practices and innovative approaches. This will mean employing various data science tools (Python, apache spark, TensorFlow) and techniques (dimensionality reduction, unsupervised learning, supervised learning) to create and test machine learning algorithms. Once tested and verified you will work with development teams to implement the algorithm as a scalable, hosted service.
+
+We're looking for an experienced and creative data scientist who can conceptualize a project from start to finish, identifying the appropriate data and methodologies to use. Our Data Scientists work with open-source machine learning packages and libraries, so this position involves building custom ML/AI utilities from open-source resources in languages such as Python (preferred) and R. In this role, you will own and share technical solutions with both technical and non-technical stakeholders across multiple teams both internally and with external clients.
+
+Responsibilities
+Perform data analysis to understand the right combinations of data to meet outlined objectives
+Translate client queries into actionable data pulls and help translate outputs into client strategies
+Build and evaluate predictive modeling & machine learning utilities to produce meaningful outcomes that enable data-led decisions
+Translate analysis results into actionable insights
+Present insights to both technical and non-technical audiences
+Partner with internal data scientists, developers, and tech teams to develop new methodologies and utilities
+Work with development teams to implement data science algorithms as scalable, hosted services
+Your Skills
+Requirements
+Background in math including linear algebra, statistics, probability, and numerical analysis.
+Machine Learning Analysis: Must be able to execute, evaluate, and apply various models such as logistic regression, random forests/decision tree, nearest neighbor, neural net, support vector machine, an ensemble of multiple models, etc
+Programming: Proficient coding in a language suited for machine learning systems such as Python or R (not reliant on GUI-based systems to execute analysis) for the purpose of cleaning, manipulating, visualizing, and analyzing data
+Desired Skills
+Experience with software engineering and developing deployable API services
+Must be adaptable and have the drive to learn new technologies and frameworks to support developing client solutions
+Using browser based interactive computational environments (like Jupyter Notebook) to perform analysis activities and test / evaluate data models and algorithms.
+Tools: Spark, Pandas, SciKit-Learn, TensorFlow, Keras, SQL
+Communication: Must be able to explain analysis process and translate results into actionable insights for both technical and non-technical audiences
+Teamwork: Must be accountable for individual responsibilities while working collaboratively with development and engineering teams to achieve project deliverables
+Comfort in an agile development environment (eg. writing stories, participating in workshops, sprint planning and retros)
+Perks
+Benefits Program (medical, dental, life insurance, 401(k), professional and personal development, PTO)
+Innovation Time - we allow 10% of your time to be devoted to innovation hours. This time can be used to foster individual ideas, personal projects, start up ideas, improve an open source tool or for career advancement and self-education. All during traditional working hours.
+Dress Code - we don't have one
+These roles are located in St. Louis, MO. While we would prefer local candidates your location is not the most important factor; please help us understand why you would like to call St. Louis home if you would be relocating.
+
+]]>",4.7,"1904labs
+4.7","Saint Louis, MO","Saint Louis, MO",51 to 200 employees,2016,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,"Slalom, Daugherty Business Solutions"
+Python Data Engineer,-1,"Status: Available
+Posted On: 1/24/2020
+Job Location: Houston, TX
+Salary
+Job Type: Full Time
+Education:
+• Degree (BS, MS, or PhD) in Computer Science, Electrical and Computer Engineering, Software Engineering, or Information Systems preferred; any STEM BS, MS or PhD with appropriate work experience will be considered
+
+Experience:
+• 2+ years of professional Python software design and development
+• Linux administration experience a plus
+• Experience developing in containerized environments (Docker, LXC)
+• Experience with multiprocessing and multithreading in Python
+• Experience with MongoDB and Redis is a plus
+• Experience with a pipeline framework like Prefect, Airflow, Luigi is a plus
+• Experience with AWS or other cloud service a plus
+
+Job Categories:
+Engineering
+
+Energy
+
+Position Summary:
+Our client is looking for a talented data engineer to build robust data pipelines to pull data from various data sources, apply transformation logic, and combine into large datasets that support model building and scoring in production.
+
+Classification: Non-exempt
+
+Essential Responsibilities:
+• Design and develop data pipelines in Python
+• Abstract, refactor, and package reusable code for broad use
+• Develop test suites to ensure code works as planned and enable fast edits as business requirements change
+
+Skills/Knowledge:
+• Expert-level Python programming
+• Test-driven development
+• Building and monitoring data pipelines
+• Proficient with the following Python packages: SQLAlchemy, pandas, sphinx, and pytest
+• Git
+• SQL
+• Continuous Integration and Deployment (Gitlab-ci, Ansible, Jenkins, or equivalent)
+• Ability to design Python software from scratch
+• Desire to automate everything
+• Good communication skills
+• Independent and self-driven worker
+• Creative problem solver",2.9,"Riverway Business Services
+2.9","Houston, TX","Bellaire, TX",1 to 50 employees,1990,Private Practice / Firm,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),-1
+Claim Manager,$78K-$99K (Glassdoor est.),"Our Mission:
+We’re here to create a safer, happier and more mindful future for all with the help of data science, engineering, design, and mobile technology. We're starting by reinventing insurance, by rethinking the technologies that enable it, but our true goal is to build a platform that rewards people for driving well — creating safer roads with fewer accidents in the process.
+Backed by impressive funding, we're poised to re-engineer a trillion-dollar category, and that’s just the beginning. We’re using rich customer insights, advanced technology and data science to build our cloud-native InsurTech solution, and other things we haven’t even dreamt up yet. We're out to change behavior and promote mindful living at a societal level. But the key to us being successful in our mission isn’t just about nailing the technology—it’s about hiring the talented people who can help us make a quantifiable impact in the world. We’re growing our world-class team.
+And that’s where you come in.
+
+The Role:
+We are looking for an accomplished professional for the position of Claim Manager. Qualified individuals should have extensive work experience in Property and Casualty Auto Claims with a minimum of 5 years experience in the Property and Casualty Claims. Successful candidates should be able to demonstrate success leading others with proven experience achieving service-level objectives, maintaining high quality coverage investigations, liability analysis, and appropriate claim resolution for auto claims.
+Responsibilities:
+Responsible for first-line supervision of assigned Claim Specialists; including hiring, training, coaching, development, performance management, and salary administration
+Provides direction and serves as a resource for knowledge of policies, procedures, laws, statutes, and insurance regulations when determining coverage, liability, damages of injury (first and third party) and property damage
+Responsible for the review and control of the assigned unit's claim activities including investigations, analyses, evaluations, claim payments, and adjustment expense payments
+Recognizes events that affect customer service and provides timely communications to team members and peers
+Responsible for compliance with company procedures, applicable federal/state laws, and legal requirements
+Participates in annual budgetary process as appropriate
+Leads team toward desired individual, team, department and company goals
+Requirements:
+Complete all applicable training
+Incumbent may work irregular hours, including weekends and holidays, based on workload and job requirements
+Incumbent must be willing to work flexible work shifts as operation dictates
+Fulfills state licensing and continuing education requirements, as applicable
+Job may require travel overnight via commercial transportation or driving motor vehicles to any office locations where the Company does business, or other locations to conduct/attend training, conferences, meetings, and/or seminars
+Additional Details:
+Salary: We invest in first-rate people and pay top-of-market salaries for most positions, factoring in experience and talent. We are unable to offer equity. $90k-$150K
+Benefits: Full medical, wellness reimbursement, four weeks of PTO +6 weeks of parental leave (12 weeks for parents who give birth), and great work-life balance.
+Location: Providence, RI
+HiRoad Assurance Company is an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.",5.0,"HiRoad
+5.0","Providence, RI","Bloomington, IL",1 to 50 employees,-1,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable,"Progressive Insurance, GEICO, Esurance"
+Data Science Director (Senior Director),$94K-$109K (Glassdoor est.),"At American Family Insurance, we’re driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
+
+Job ID:
+R15662 Data Science Director (Senior Director) (Open)
+Summary:
+Responsible for providing strategic direction and expertise to understand key business questions that can be addressed using data and advanced analytic techniques. Responsible for leading, designing, developing and fielding data driven solutions that have a direct impact to the organization. Works closely with leaders across the company and externally to build a variety of models to make critical business decisions. This position will connect with stakeholders across organizations to identify opportunities to extract value from datasets to produce innovative solutions and solve focused analytical problems.
+
+This is a newly created role that will lead our growing team of data scientists and engineers. We are looking for someone with the technical, communication, and leadership skills to develop our data science practice and to further expand the scope of work beyond traditional pricing into other business groups. As the team evolves, we anticipate building additional models for claims, marketing, and sales teams. We are flexible as to work location (Green Bay, Chicago, or Madison), and would appreciate a leader with experience leading remote teams. Our tech stack is also flexible, but we would expect someone to be extremely proficient in SAS, R or Python.
+
+Job Description:
+
+
+Primary Accountabilities
+Oversees the exploration of data using a variety of advanced techniques to proactively identify relationships, create insights and answer business questions or guide future model development.
+Provide senior level support in the area of strategic analytics, to identify business opportunities, solve complex problems and optimize business performance.
+Oversee the development, implementation, and application of state-of-the art scientific solutions for addressing business questions.
+Networks with and contributes thought leadership to the broader external analytics community. Builds awareness of leading techniques, tools and data sources.
+Interact Data Analytics, Ratemaking, and Product Management leadership as well as American Family data science colleagues to assist in the development of the strategic direction of data science.
+Identify, hire, and develop science team members, and effectively leverage the skillsets of each member brings.
+Collaborates with Technology team to oversee the overall division processes for designing, developing, administering and managing technology environments and tools.
+Participate in project teams and act in a leadership role as a trusted primary business and scientific partner with a keen focus on data driven decisions.
+Required Qualifications:
+
+· Master's Degree in Mathematics, Statistics, Physics, Computer Sciences or Engineering, or related field or equivalent relevant experience
+
+· Demonstrated experience providing customer-driven solutions, support or service
+
+· Demonstrated experience communicating complex findings in a clear and concise manner to various non-technical audiences.
+
+· Demonstrated experience developing and managing complex projects and effectively leading interdisciplinary teams to accomplish project goals.
+
+· Demonstrated experience formulating, approaching, and solving complex analytical problems using a quantitative, scientific approach.
+
+· Demonstrated experience growing and managing a data sciences team.
+
+· Demonstrated experience working with large, complex datasets and using analytically-oriented languages such as Python, R, or SAS.
+
+· Solid knowledge and understanding of insurance industry products and services.
+
+Specialized Knowledge and Skills Requirements
+Demonstrated experience providing customer-driven solutions, support or service
+Demonstrated experience communicating complex findings in a clear and concise manner to various non-technical audiences.
+Demonstrated experience developing and managing complex projects and effectively leading interdisciplinary teams to accomplish project goals.
+Demonstrated experience formulating, approaching, and solving complex analytical problems using a quantitative, scientific approach.
+Demonstrated experience growing and managing a data sciences team.
+Demonstrated experience working with large, complex datasets and using analytically-oriented languages such as Python, R, or SAS.
+Solid knowledge and understanding of insurance industry products and services.
+Education/Licenses/Designations
+Master's Degree in Mathematics, Statistics, Physics, Computer Sciences or Engineering, or related field.
+Additional Job Information:
+
+
+Stay connected: Join our Talent Community!
+
+At American Family Insurance, we’re driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
+
+Job ID:
+R15662 Data Science Director (Senior Director) (Open)
+Summary:
+Responsible for providing strategic direction and expertise to understand key business questions that can be addressed using data and advanced analytic techniques. Responsible for leading, designing, developing and fielding data driven solutions that have a direct impact to the organization. Works closely with leaders across the company and externally to build a variety of models to make critical business decisions. This position will connect with stakeholders across organizations to identify opportunities to extract value from datasets to produce innovative solutions and solve focused analytical problems.
+
+This is a newly created role that will lead our growing team of data scientists and engineers. We are looking for someone with the technical, communication, and leadership skills to develop our data science practice and to further expand the scope of work beyond traditional pricing into other business groups. As the team evolves, we anticipate building additional models for claims, marketing, and sales teams. We are flexible as to work location (Green Bay, Chicago, or Madison), and would appreciate a leader with experience leading remote teams. Our tech stack is also flexible, but we would expect someone to be extremely proficient in SAS, R or Python.
+
+Job Description:
+
+
+Primary Accountabilities
+Oversees the exploration of data using a variety of advanced techniques to proactively identify relationships, create insights and answer business questions or guide future model development.
+Provide senior level support in the area of strategic analytics, to identify business opportunities, solve complex problems and optimize business performance.
+Oversee the development, implementation, and application of state-of-the art scientific solutions for addressing business questions.
+Networks with and contributes thought leadership to the broader external analytics community. Builds awareness of leading techniques, tools and data sources.
+Interact Data Analytics, Ratemaking, and Product Management leadership as well as American Family data science colleagues to assist in the development of the strategic direction of data science.
+Identify, hire, and develop science team members, and effectively leverage the skillsets of each member brings.
+Collaborates with Technology team to oversee the overall division processes for designing, developing, administering and managing technology environments and tools.
+Participate in project teams and act in a leadership role as a trusted primary business and scientific partner with a keen focus on data driven decisions.
+Required Qualifications:
+
+· Master's Degree in Mathematics, Statistics, Physics, Computer Sciences or Engineering, or related field or equivalent relevant experience
+
+· Demonstrated experience providing customer-driven solutions, support or service
+
+· Demonstrated experience communicating complex findings in a clear and concise manner to various non-technical audiences.
+
+· Demonstrated experience developing and managing complex projects and effectively leading interdisciplinary teams to accomplish project goals.
+
+· Demonstrated experience formulating, approaching, and solving complex analytical problems using a quantitative, scientific approach.
+
+· Demonstrated experience growing and managing a data sciences team.
+
+· Demonstrated experience working with large, complex datasets and using analytically-oriented languages such as Python, R, or SAS.
+
+· Solid knowledge and understanding of insurance industry products and services.
+
+Specialized Knowledge and Skills Requirements
+Demonstrated experience providing customer-driven solutions, support or service
+Demonstrated experience communicating complex findings in a clear and concise manner to various non-technical audiences.
+Demonstrated experience developing and managing complex projects and effectively leading interdisciplinary teams to accomplish project goals.
+Demonstrated experience formulating, approaching, and solving complex analytical problems using a quantitative, scientific approach.
+Demonstrated experience growing and managing a data sciences team.
+Demonstrated experience working with large, complex datasets and using analytically-oriented languages such as Python, R, or SAS.
+Solid knowledge and understanding of insurance industry products and services.
+Education/Licenses/Designations
+Master's Degree in Mathematics, Statistics, Physics, Computer Sciences or Engineering, or related field.
+Additional Job Information:
+
+
+Stay connected: Join our Talent Community!",3.5,"American Family Insurance
+3.5","Chicago, IL","Madison, WI",5001 to 10000 employees,1927,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),"State Farm, Farmers Insurance Group, Nationwide"
+HR Reporting & Data Analyst,$103K-$122K (Glassdoor est.),"Primary Purpose:
+
+Responsible for supporting all HR systems with a primary focus on system reporting and auditing of data in the Human Capital Management System (Workday). The analyst will, under general supervision, perform daily operations and support and analysis of all data, including but not limited to employee headcount, compensation, benefits, and payroll.
+
+Essential Duties and Responsibilities:
+
+Following is a summary of the essential functions for this job. Other duties may be performed, both major and minor, which are not mentioned below. Specific activities may change from time to time.
+Serve as primary point-of-contact for reporting requests from HR and managers
+Develops, implements, and runs database reports.
+Coordinates database administration, data consolidation, and data analysis.
+Perform periodic audits on internal and external system controls and processes
+Create ad-hoc reports and queries for end users
+Assist with monthly HR reports
+May assist with testing and implementing of HRIS system upgrades or patches, resolve system issues, maintain the HRIS system tables and performs scheduled activities
+May maintain HRIS system tables and perform mass data uploads
+Responsible for monitoring the HR Reporting mail box, respond to inquiries quickly and with high customer satisfaction, or delegate to an appropriate resource with the responsibility of following up until the inquiry is resolved
+Assist in development and documentation of HR system procedures and tutorials for employees
+Troubleshoot system issues and research solutions to improve system efficiency
+Minimum Skills and Competencies:
+
+The requirements listed below are representative of the knowledge, skill and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Bachelors Degree or in-lieu of degree equivalent education, training and work-related experience
+Previous experience in an HRIS reporting role
+Extensive knowledge of PCs and common office applications software
+Must possess effective verbal and written communication skills
+Must perform well in high-energy, dynamic and team-oriented environments
+Ability to work independently and as a member of the team
+Ability to maintain absolute confidentiality in all business matters
+Effective organization and time management skills with the ability to work under pressure and adhere to project deadlines
+Ability to create and/or run reports from HRMS/HRIS systems
+Proficient in Microsoft Office (Word, Excel, Outlook, PowerPoint)
+Desired Skills:
+Master's Degree in a related field
+3+ years of experience in an HRIS role
+Experience using Workday
+Familiarity with HR processes including end-to-end processes for recruiting, onboarding, compensation , employee benefits, training, and payroll
+National General Holdings Corp. is an Equal Opportunity (EO) employer Veterans/Disabled and other protected categories. All qualified applicants will receive consideration for employment regardless of any characteristic protected by law. Candidates must possess authorization to work in the United States, as it is not our practice to sponsor individuals for work visas.
+
+In the event you need assistance or accommodation in completing your online application, please contact NGIC main office by phone at (336) 435-2000.",2.8,"National General Insurance
+2.8","Winston-Salem, NC","New York, NY",5001 to 10000 employees,1939,Company - Public,Insurance Carriers,Insurance,$2 to $5 billion (USD),"Progressive Insurance, Kemper, National Interstate"
+"Data Science Researcher, CX Index",$95K-$116K (Glassdoor est.),"Imagine the possibilities of change. It starts with an insatiable curiosity about clients, colleagues, and the future. At Forrester, we believe curiosity powers progress. Forresterites bring a diversity of opinions and the courage of their convictions to collaborate on the ideas and initiatives that change the course of business. As a trusted advisor to the most influential companies in the world, we live at the nexus of what’s next. Our purpose is to imagine the possibilities of change. Our job is to be bold at work.
+About This Role:
+The Customer Experience Index (CX Index™) product team supports our clients with the most complete and powerful proprietary CX tool in the market today. The CX Index evaluates more than 600 brands across 16 industries in North America, Europe, and Asia. It gives our clients a deep and actionable understanding of the quality of their customer experience, competitive benchmark data so that our clients know how they stack up against their peers, and the ability to model which improvements will have the biggest impact on our clients’ revenue.
+The Data Science Researcher is a critical member of the CX Index product team. Using survey-based transactional, operational, and behavioral data, you will perform data analytics to drive insights and client decision making. You will also be a key member of the team driving Forrester’s CX analytics forward, bringing together multiple data sources to create a cohesive story based on clear and persuasive analysis. Forrester is looking for a candidate who has experience translating data into actionable insights and linking it to the client’s business initiatives. The candidate should have some background in measuring and analyzing consumer or business behaviors, combined with writing and presentation skills.
+
+Support and advance the analytics work of the CX Index product team using statistical techniques such as linear and logistic regression modeling, correlation, factor and cluster analysis, time series analysis, etc.
+Work to understand clients’ customer experience needs and develop the appropriate set of analyses and data insights to address them.
+Explain basic and more advanced analytic techniques to clients and internal colleagues in a clear, persuasive way to drive decision making.
+Partner with our CX Index analysts and research analysts to develop a data-driven story, examining how our clients are doing and how they can improve their customer experience.
+Explore new and third-party sources of data and develop analytic methodologies to enhance Forrester’s data offering and to empower the client’s business decisions.
+Produce deliverables such as PowerPoint presentations and Forrester reports.
+
+A strong record of academic achievement: BA or BS minimum; MBA or MS is preferred. Areas of study should be in one of the following areas: statistics or mathematics, economics, psychology, sociology, business, or marketing analytics.
+A solid background in understanding consumer behaviors, either through related studies like psychology, sociology, or anthropology or through work experience.
+One to three years of analytics experience, preferably in customer experience/insights/intelligence, social science, or data science.
+Experience in using statistical packages such as R, Python, or SPSS, but experience in R is preferred.
+Experience with either algorithm/methodology creation or programming/development is a plus.
+Experience working with survey data is a plus.
+Demonstrated knowledge and experience with statistical analysis, especially regression modeling and factor and cluster analysis.
+Demonstrated ability to articulate advanced analytic results to a nonquantitative business audience.
+The ability to combine data, analysis, ideas, and recommendations into compelling deliverables that help clients be more successful.
+The ability to work with a team under tight deadlines and to handle multiple tasks.
+The ability to work independently with minimal supervision and as part of a global research team.
+Someone who is driven to learn new things and enthusiastic to keep up to date on the latest analytical techniques and advances in customer experience research and measurement.
+Sharp attention to detail and high personal standards for quality and thoroughness.
+Superior listening, critical thinking, and writing skills, as well as memorable presentation skills.
+Explore #ForresterLife on:
+YouTube
+Twitter
+Facebook
+Instagram
+LinkedIn
+Glassdoor
+FLSA Status:
+Exempt
+Forrester Research, Inc. is an Equal Opportunity/Affirmative Action Employer that is committed to equal employment opportunity for all qualified individuals without regard to race, color, religion, national origin, ancestry, sex, age, disability, sexual orientation, gender identity and expression, marital status, genetic information, military service, veteran status, or any other status protected by applicable law. Minorities, Women, Individuals with Disabilities, and Veterans are especially encouraged to apply.",4.3,"Forrester
+4.3","Cambridge, MA","Cambridge, MA",1001 to 5000 employees,1983,Company - Public,Research & Development,Business Services,$100 to $500 million (USD),-1
+Data Science Manager,$122K-$162K (Glassdoor est.),"Decode_M
+
+https://www.decode-m.com/
+
+Data Science Manager : Job Description
+
+We’re hiring a Data Science Manager in our New York office to lead Decode_M’s Data Science team in developing new solutions for our clients and advancing the science of momentum through our proprietary product.
+
+This position, based in New York City, requires an interest in managing Decode_M’s data science team, workflow and offerings. It demands excellent organizational skills, a natural curiosity, an eagerness to dive into the deep end, and a hunger to learn and grow while having a blast. Expect to learn a lot about cool companies, new products, and the latest in analytics, research and strategy.
+
+About You
+You have an advanced degree in data science, mathematics, or another highly quantitative field, and are comfortable understanding and utilizing recent academic research in your work.
+You have 3+ years of relevant work experience using applied statistics and/or machine learning. Bonus points if you’ve worked in a consulting, or other client-facing role before
+You have 1+ years of management experience.
+You are fluent in Python and R, as well as a robust numerical computing and data science stack in each language. Not only do you produce readable and well-documented code, but elevate your team’s work through thoughtful code review and mentorship
+You are highly consultative, engaged, and detail-oriented. You see beyond the question you are asked to understand client objectives, and chart a course for long-term success in our relationships
+You are an autodidact, who loves to figure out new solutions to problems by diving deep into StackOverflow, Arxiv.org, or your preferred destination.
+You are curious, inquisitive, proactive, organized, and methodical. You like to use substantiated data to both identify and solve problems, rather than trust your gut alone
+
+
+What You'll Do
+
+Lead a team. Help to set the vision for the Data Science team and follow through on that vision. Be a mentor to a small, close-knit team of data scientists, helping them to develop professionally
+
+Drive New Product Development: Decode_M has developed a proprietary algorithm to quantify the cultural momentum of brands, entities, people and movements. You will steward the development of the algorithm and be part of the product team to bring it to market with new customers
+
+Manage Process. Work across teams and with Decode_M’s leadership to ensure that our work is top notch, deadlines are met, and projects are resourced appropriately. Foster an environment where the team is empowered to do its best work
+
+Build Tools. Use data from social media, online reviews, mainstream media sites, search, web traffic, quantitative research, CRMs or other databases, etc. to uncover intelligence around growth opportunities and business challenges. Build software and/or repeatable processes to scale this work
+
+Grow our Capabilities. Advance our expertise in applying statistics and machine learning to digital trends, CRM data, and quantitative research. Know the state of the field well enough to know when to reach for best-in-class tools and when to design your own solutions",-1,Decode_M,"New York, NY","New York, NY",1 to 50 employees,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1
+Data Scientist,$65K-$116K (Glassdoor est.),"The Data Scientist will be joining a team of extremely passionate data scientists, product managers, and engineerswho share a common interest in tackling some of the most difficult data science and machine learning problems today. With the data products and machine learning systems you design, 7Park will arm influential decision-makers at financial and corporate giants with critical information they need to make smart, data-driven decisions. Along the way, you will help advance the current work in artificial intelligence and predictive modeling. Our technologies and data power the insights for financial services and corporations.
+
+The compensation package includes a competitive salary and incentive structure, generous benefits, and valuable business experiences, challenges, and excitement of contributing to the success of a fast-growing technology startup company.
+
+The data science team has two major goals: to design and build data products that provide intelligence on real-time economic activity to our financial and corporate clients and to both research and develop machine learning systems to extract information from large volumes of structured and unstructured text.
+
+This position reports to the Chief Product Officer.
+
+Responsibilities:
+Conducting research on some of the world’s most interesting alternative datasets
+Planning, developing, and applying cutting-edge machine learning systems and statistical modeling to extract insight from vast amounts of data at scale
+Writing production-ready code to analyze, structure, and make accurate and timely predictions
+Designing systems to monitor the results of models in productions, discover and address anomalies, and ensure the robustness and reliability of these models
+Leading projects from start to finish, collaborating with 7Park’s senior management, product managers, engineers, external data partners, and clients
+Requirements:
+Bachelor’s degree or higher in computer science, mathematics, statistics, linguistics, physics, computational finance, or similar quantitative field
+3 – 5 years of relevant professional experience in data science
+Strong knowledge of machine learning, computer science, mathematics, and statistics
+Strong programming skills in Python, R, and/or Scala
+Experience with NumPy, SciPy, Pandas, Scikit-Learn, TensorFlow, and Keras. PyTorch is also acceptable
+Experience with building distributed machine learning systems using Apache Spark and a working knowledge of MLlib
+Experience with several of the following concepts: decision trees, random forests, and gradient boosting; linear regression; logistic regression; linear and non-linear dimensionality reduction using PCA, kernel methods, and dictionary learning; clustering with K-means, hierarchical clustering, and DBSCAN; autoencoders; generative models; and sequential data modeling
+Results driven attitude with a strong desire to build data platforms that enable 7Park Data’s insights across a massive and diverse set of data
+Fearlessness in the pursuit of process improvement, implementation, and change
+Flexibility and willingness to adapt to the changing demands of a fast-paced, startup environment
+Solutions oriented approach and multi-dimensional problem solving
+Highly self-motivated and results oriented, proven track record of exceeding goals
+Commitment to success and willingness to put forth the effort to achieve it
+Strong written and verbal English communication skills",3.8,"7Park Data
+3.8","New York, NY","New York, NY",51 to 200 employees,2012,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,-1

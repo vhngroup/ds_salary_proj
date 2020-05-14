@@ -1,13 +1,13 @@
 import pandas as  pd
 import untitled
 
-
 def load_data():
     contry = untitled.contry #traemos la cidad
     year = untitled.year #traemos el año
     #Parsing Salary
     
     df = pd.read_csv('glassdoor_jobs.csv')
+
     df['hourly'] = df['Salary Estimate'].apply(lambda x: 1 if 'per hour' in x.lower() else 0)
     df['employer_Provided'] = df['Salary Estimate'].apply(lambda x: 1 if 'employer provided salary:' in x.lower() else 0)
     
@@ -28,7 +28,6 @@ def load_data():
     #if len(df['Location'])
     df['job_state'] = df['Location'].apply(lambda x: x.split(",")[1] if  len(x.split(",")) == 2 else x.split(",")[0]) # se soluciona problema de fuera de indice, cuando se presenten ciudades sin siglas.
 
-        
     #comparamos si la columna locaciòn "ciudad" y la columna Headquarters "sede" par determinar donde sera el trabajo.
     df['some_state'] = df.apply(lambda x: 1 if x.Location == x.Headquarters else 0, axis = 1)
     
